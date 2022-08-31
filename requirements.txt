@@ -11,3 +11,4 @@ flask
 app
 uvicorn
 Flask
+plotly.graph_objects
