@@ -1,5 +1,7 @@
 pandas
 numpy
+seaborn
+requests
 matplotlib
 scikit-learn
 imbalanced-learn
