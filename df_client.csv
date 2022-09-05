@@ -1,0 +1,1001 @@
+,NAME_FAMILY_STATUS,NAME_EDUCATION_TYPE,OCCUPATION_TYPE,NAME_CONTRACT_TYPE,CODE_GENDER,DAYS_BIRTH,FLAG_OWN_REALTY,AMT_INCOME_TOTAL,ANNUITY_INCOME_PERC,AMT_CREDIT,AMT_ANNUITY,INCOME_CREDIT_PERC
+0,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,25,0,202500.0,0.12195,406597.5,24700.5,0.498
+1,Married,Higher education,Core staff,Cash loans,1,45,1,270000.0,0.1322,1293502.5,35698.5,0.2087
+2,Single / not married,Secondary / secondary special,Laborers,Revolving loans,0,52,0,67500.0,0.1,135000.0,6750.0,0.5
+3,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,52,0,135000.0,0.2198,312682.5,29686.5,0.4316
+4,Single / not married,Secondary / secondary special,Core staff,Cash loans,0,54,0,121500.0,0.1799,513000.0,21865.5,0.2368
+5,Married,Secondary / secondary special,Laborers,Cash loans,0,46,0,99000.0,0.278,490495.5,27517.5,0.2018
+6,Married,Higher education,Accountants,Cash loans,1,37,0,171000.0,0.2416,1560726.0,41301.0,0.10956
+7,Married,Higher education,Managers,Cash loans,0,51,0,360000.0,0.1169,1530000.0,42075.0,0.2354
+8,Married,Secondary / secondary special,n.a.,Cash loans,1,55,0,112500.0,0.3008,1019610.0,33826.5,0.11035
+9,Single / not married,Secondary / secondary special,Laborers,Revolving loans,0,39,0,135000.0,0.15,405000.0,20250.0,0.3333
+10,Married,Higher education,Core staff,Cash loans,1,27,0,112500.0,0.1882,652500.0,21177.0,0.1724
+11,Married,Secondary / secondary special,n.a.,Cash loans,1,55,0,38419.156,0.2778,148365.0,10678.5,0.259
+12,Married,Secondary / secondary special,Laborers,Cash loans,1,36,0,67500.0,0.08716,80865.0,5881.5,0.835
+13,Married,Secondary / secondary special,Drivers,Cash loans,0,38,1,225000.0,0.1288,918468.0,28966.5,0.245
+14,Married,Secondary / secondary special,Laborers,Cash loans,1,39,0,189000.0,0.1735,773680.5,32778.0,0.2443
+15,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,23,0,157500.0,0.128,299772.0,20160.0,0.5254
+16,Married,Secondary / secondary special,Drivers,Cash loans,0,35,1,108000.0,0.2421,509602.5,26149.5,0.2119
+17,Married,Secondary / secondary special,Laborers,Revolving loans,1,26,0,81000.0,0.1666,270000.0,13500.0,0.3
+18,Widow,Secondary / secondary special,Laborers,Revolving loans,1,48,0,112500.0,0.07,157500.0,7875.0,0.7144
+19,Single / not married,Higher education,Core staff,Cash loans,1,31,0,90000.0,0.1952,544491.0,17563.5,0.1653
+20,Married,Secondary / secondary special,Laborers,Revolving loans,0,50,0,135000.0,0.1583,427500.0,21375.0,0.3157
+21,Married,Secondary / secondary special,Sales staff,Cash loans,1,40,0,202500.0,0.1855,1132573.5,37561.5,0.1788
+22,Married,Secondary / secondary special,Sales staff,Cash loans,1,30,1,450000.0,0.07227,497520.0,32521.5,0.9043
+23,Married,Secondary / secondary special,n.a.,Cash loans,1,68,0,83250.0,0.2864,239850.0,23850.0,0.3472
+24,Married,Secondary / secondary special,Drivers,Cash loans,0,30,1,135000.0,0.0941,247500.0,12703.5,0.5454
+25,Married,Secondary / secondary special,Cleaning staff,Cash loans,1,52,0,90000.0,0.12305,225000.0,11074.5,0.4
+26,Widow,Secondary / secondary special,Cooking staff,Cash loans,1,51,0,112500.0,0.2407,979992.0,27076.5,0.1148
+27,Married,Secondary / secondary special,Laborers,Cash loans,0,43,0,112500.0,0.2118,327024.0,23827.5,0.344
+28,Single / not married,Higher education,n.a.,Cash loans,0,27,0,270000.0,0.2136,790830.0,57676.5,0.3413
+29,Single / not married,Higher education,Laborers,Revolving loans,0,28,0,90000.0,0.1,180000.0,9000.0,0.5
+30,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,41,0,292500.0,0.0841,665892.0,24592.5,0.4392
+31,Civil marriage,Secondary / secondary special,Private service staff,Cash loans,1,30,0,112500.0,0.2225,512064.0,25033.5,0.2197
+32,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,35,1,90000.0,0.2322,199008.0,20893.5,0.4521
+33,Married,Secondary / secondary special,Drivers,Cash loans,0,32,1,360000.0,0.1085,733315.5,39069.0,0.491
+34,Married,Higher education,Core staff,Cash loans,1,43,0,135000.0,0.2437,1125000.0,32895.0,0.12
+35,Married,Higher education,Sales staff,Cash loans,1,33,1,112500.0,0.3958,450000.0,44509.5,0.25
+36,Married,Secondary / secondary special,Private service staff,Cash loans,1,47,0,198000.0,0.11694,641173.5,23157.0,0.3088
+37,Married,Secondary / secondary special,Drivers,Cash loans,0,57,0,121500.0,0.1247,454500.0,15151.5,0.2673
+38,Married,Secondary / secondary special,n.a.,Cash loans,1,65,0,99000.0,0.1752,247275.0,17338.5,0.4004
+39,Married,Higher education,Managers,Revolving loans,0,44,0,180000.0,0.15,540000.0,27000.0,0.3333
+40,Married,Secondary / secondary special,Laborers,Cash loans,0,47,0,202500.0,0.173,1193580.0,35028.0,0.1697
+41,Married,Secondary / secondary special,Laborers,Cash loans,1,46,0,202500.0,0.1442,604152.0,29196.0,0.3352
+42,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,36,1,135000.0,0.1204,288873.0,16258.5,0.4673
+43,Single / not married,Higher education,n.a.,Cash loans,1,64,0,108000.0,0.398,746280.0,42970.5,0.1448
+44,Civil marriage,Secondary / secondary special,n.a.,Cash loans,0,26,0,202500.0,0.2384,661702.5,48280.5,0.306
+45,Civil marriage,Secondary / secondary special,Sales staff,Revolving loans,1,21,0,90000.0,0.1,180000.0,9000.0,0.5
+46,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,55,0,202500.0,0.08716,305221.5,17649.0,0.6636
+47,Married,Secondary / secondary special,Medicine staff,Cash loans,1,55,0,99000.0,0.271,260640.0,26838.0,0.38
+48,Married,Secondary / secondary special,Managers,Cash loans,1,54,1,130500.0,0.2854,1350000.0,37255.5,0.0967
+49,Married,Secondary / secondary special,Laborers,Cash loans,0,50,0,360000.0,0.1387,1506816.0,49927.5,0.2389
+50,Married,Higher education,Core staff,Revolving loans,1,33,0,54000.0,0.125,135000.0,6750.0,0.4
+51,Married,Higher education,Managers,Cash loans,0,51,0,540000.0,0.0641,675000.0,34596.0,0.8
+52,Married,Secondary / secondary special,n.a.,Cash loans,0,33,1,76500.0,0.1917,454500.0,14661.0,0.1683
+53,Married,Higher education,Core staff,Cash loans,1,28,0,225000.0,0.07184,314055.0,16164.0,0.7163
+54,Married,Secondary / secondary special,n.a.,Cash loans,0,50,1,81000.0,0.401,675000.0,32472.0,0.12
+55,Married,Higher education,Managers,Cash loans,1,35,0,180000.0,0.2532,837427.5,45558.0,0.215
+56,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,59,1,67500.0,0.2279,298728.0,15381.0,0.226
+57,Married,Secondary / secondary special,Security staff,Revolving loans,0,49,0,81000.0,0.1528,247500.0,12375.0,0.3274
+58,Separated,Secondary / secondary special,Laborers,Cash loans,0,38,0,360000.0,0.07574,640458.0,27265.5,0.562
+59,Widow,Higher education,Managers,Cash loans,0,56,0,540000.0,0.08685,1227901.5,46899.0,0.4397
+60,Married,Secondary / secondary special,Accountants,Cash loans,1,55,0,180000.0,0.4832,1663987.5,86989.5,0.10815
+61,Single / not married,Incomplete higher,Sales staff,Cash loans,0,21,1,180000.0,0.2451,1080000.0,44118.0,0.1666
+62,Civil marriage,Higher education,n.a.,Cash loans,0,62,0,324000.0,0.124,1130760.0,40189.5,0.2866
+63,Single / not married,Higher education,n.a.,Cash loans,1,33,1,112500.0,0.093,95940.0,10462.5,1.173
+64,Married,Secondary / secondary special,Drivers,Cash loans,0,37,1,180000.0,0.05377,315000.0,9679.5,0.5713
+65,Single / not married,Secondary / secondary special,Core staff,Cash loans,0,33,0,180000.0,0.2258,1256400.0,40657.5,0.1433
+66,Married,Higher education,Core staff,Cash loans,1,53,0,180000.0,0.2444,1035000.0,43983.0,0.174
+67,Separated,Secondary / secondary special,Laborers,Revolving loans,0,42,0,225000.0,0.06,270000.0,13500.0,0.8335
+68,Civil marriage,Secondary / secondary special,Sales staff,Revolving loans,1,32,1,157500.0,0.1428,450000.0,22500.0,0.35
+69,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,29,1,180000.0,0.11725,450000.0,21109.5,0.4
+70,Married,Higher education,Laborers,Cash loans,0,32,1,180000.0,0.11725,450000.0,21109.5,0.4
+71,Married,Secondary / secondary special,Laborers,Cash loans,0,42,0,103500.0,0.2361,573628.5,24435.0,0.1804
+72,Separated,Secondary / secondary special,Laborers,Cash loans,0,40,0,225000.0,0.11615,495351.0,26140.5,0.454
+73,Married,Secondary / secondary special,Drivers,Cash loans,0,30,0,157500.0,0.1835,755190.0,28894.5,0.2085
+74,Widow,Higher education,Laborers,Cash loans,1,39,0,135000.0,0.1613,675000.0,21775.5,0.2
+75,Married,Secondary / secondary special,Cooking staff,Cash loans,1,48,0,202500.0,0.1866,1288350.0,37800.0,0.1572
+76,Married,Higher education,n.a.,Revolving loans,1,53,1,112500.0,0.06,135000.0,6750.0,0.8335
+77,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,26,0,135000.0,0.1169,337761.0,15781.5,0.3997
+78,Married,Secondary / secondary special,Core staff,Cash loans,1,50,0,94500.0,0.299,585000.0,28273.5,0.1615
+79,Single / not married,Higher education,n.a.,Cash loans,1,62,0,108000.0,0.04907,113760.0,5301.0,0.949
+80,Married,Secondary / secondary special,Sales staff,Revolving loans,1,51,0,67500.0,0.1,135000.0,6750.0,0.5
+81,Married,Secondary / secondary special,n.a.,Cash loans,1,67,0,81000.0,0.1802,252000.0,14593.5,0.3215
+82,Married,Secondary / secondary special,n.a.,Cash loans,0,48,0,157500.0,0.1923,760225.5,30280.5,0.2072
+83,Civil marriage,Secondary / secondary special,Drivers,Revolving loans,0,47,1,225000.0,0.06,270000.0,13500.0,0.8335
+84,Separated,Secondary / secondary special,n.a.,Cash loans,1,63,0,360000.0,0.1141,733315.5,41076.0,0.491
+85,Married,Higher education,Managers,Cash loans,0,43,0,202500.0,0.1898,796396.5,38443.5,0.2542
+86,Single / not married,Higher education,High skill tech staff,Cash loans,1,49,0,202500.0,0.109,343377.0,22072.5,0.59
+87,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,39,1,126000.0,0.0815,327024.0,10264.5,0.3853
+88,Married,Secondary / secondary special,n.a.,Cash loans,1,57,0,72000.0,0.2356,450000.0,16965.0,0.16
+89,Married,Secondary / secondary special,Waiters/barmen staff,Cash loans,1,50,0,90000.0,0.341,547344.0,30690.0,0.1644
+90,Married,Secondary / secondary special,Managers,Cash loans,1,54,0,193500.0,0.12274,225000.0,23755.5,0.86
+91,Married,Secondary / secondary special,Sales staff,Cash loans,1,35,0,171000.0,0.183,545040.0,31288.5,0.3137
+92,Married,Secondary / secondary special,Laborers,Cash loans,0,29,0,135000.0,0.1857,373140.0,25065.0,0.3618
+93,Married,Secondary / secondary special,Sales staff,Cash loans,1,28,1,112500.0,0.2485,862560.0,27954.0,0.1304
+94,Single / not married,Incomplete higher,n.a.,Cash loans,0,27,0,315000.0,0.2035,953460.0,64107.0,0.3303
+95,Single / not married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,41,1,76500.0,0.0875,135000.0,6696.0,0.567
+96,Single / not married,Higher education,Laborers,Cash loans,1,29,0,135000.0,0.1674,284400.0,22599.0,0.4746
+97,Married,Secondary / secondary special,n.a.,Cash loans,1,42,1,90000.0,0.1632,315000.0,14683.5,0.2856
+98,Married,Higher education,Core staff,Cash loans,1,40,0,243000.0,0.1317,900000.0,32017.5,0.27
+99,Widow,Secondary / secondary special,n.a.,Cash loans,1,61,0,90000.0,0.295,675000.0,26541.0,0.1333
+100,Married,Secondary / secondary special,Medicine staff,Revolving loans,1,30,0,54000.0,0.1666,180000.0,9000.0,0.3
+101,Married,Higher education,Core staff,Cash loans,1,26,1,135000.0,0.209,781920.0,28215.0,0.1726
+102,Married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,46,0,126000.0,0.2075,787131.0,26145.0,0.16
+103,Married,Higher education,Core staff,Cash loans,1,30,1,76500.0,0.3428,808650.0,26217.0,0.0946
+104,Widow,Secondary / secondary special,Security staff,Cash loans,1,64,1,103500.0,0.1907,675000.0,19737.0,0.1533
+105,Widow,Secondary / secondary special,n.a.,Cash loans,0,65,0,225000.0,0.1273,448272.0,28647.0,0.502
+106,Married,Secondary / secondary special,n.a.,Cash loans,1,59,1,126000.0,0.208,263686.5,26208.0,0.4778
+107,Married,Secondary / secondary special,n.a.,Revolving loans,0,35,0,135000.0,0.06665,180000.0,9000.0,0.75
+108,Married,Secondary / secondary special,n.a.,Cash loans,0,58,0,112500.0,0.0475,52128.0,5341.5,2.158
+109,Married,Higher education,n.a.,Revolving loans,1,25,0,85500.0,0.0789,135000.0,6750.0,0.6333
+110,Separated,Incomplete higher,Sales staff,Cash loans,1,28,0,157500.0,0.1956,723996.0,30802.5,0.2175
+111,Single / not married,Secondary / secondary special,Realty agents,Cash loans,1,37,0,270000.0,0.169,891072.0,45625.5,0.303
+112,Widow,Secondary / secondary special,Cleaning staff,Cash loans,1,64,0,202500.0,0.3635,1136439.0,73611.0,0.1782
+113,Civil marriage,Secondary / secondary special,Core staff,Cash loans,1,25,1,67500.0,0.2786,384048.0,18810.0,0.1758
+114,Married,Secondary / secondary special,Secretaries,Revolving loans,1,27,1,202500.0,0.04443,180000.0,9000.0,1.125
+115,Married,Secondary / secondary special,Laborers,Cash loans,0,54,0,135000.0,0.1946,391194.0,26271.0,0.3452
+116,Married,Secondary / secondary special,Laborers,Cash loans,0,43,1,157500.0,0.3135,1571931.0,49356.0,0.1002
+117,Married,Secondary / secondary special,n.a.,Cash loans,1,55,0,225000.0,0.2028,891072.0,45625.5,0.2524
+118,Married,Higher education,n.a.,Cash loans,0,39,1,135000.0,0.2164,824823.0,29223.0,0.1637
+119,Married,Secondary / secondary special,n.a.,Cash loans,1,36,1,157500.0,0.1525,302341.5,24016.5,0.521
+120,Married,Higher education,High skill tech staff,Revolving loans,1,25,1,157500.0,0.2142,675000.0,33750.0,0.2333
+121,Civil marriage,Higher education,High skill tech staff,Cash loans,0,36,0,360000.0,0.07776,579195.0,27994.5,0.6216
+122,Married,Higher education,Core staff,Revolving loans,0,62,0,162000.0,0.0833,270000.0,13500.0,0.6
+123,Separated,Secondary / secondary special,Sales staff,Cash loans,1,45,1,112500.0,0.2668,535500.0,30028.5,0.2101
+124,Separated,Secondary / secondary special,Laborers,Cash loans,1,44,0,202500.0,0.0829,260725.5,16789.5,0.777
+125,Married,Secondary / secondary special,n.a.,Cash loans,0,62,0,117000.0,0.10645,327024.0,12456.0,0.3577
+126,Married,Secondary / secondary special,Laborers,Cash loans,1,44,0,135000.0,0.1637,518562.0,22099.5,0.2603
+127,Married,Secondary / secondary special,Medicine staff,Cash loans,1,44,0,247500.0,0.1473,755190.0,36459.0,0.3276
+128,Married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,25,1,171000.0,0.1543,539590.5,26374.5,0.317
+129,Single / not married,Higher education,Accountants,Cash loans,0,45,1,135000.0,0.0872,182016.0,11772.0,0.7417
+130,Married,Secondary / secondary special,Sales staff,Cash loans,1,44,0,157500.0,0.0617,254412.0,9720.0,0.619
+131,Married,Secondary / secondary special,Drivers,Cash loans,0,50,0,202500.0,0.1606,1107981.0,32526.0,0.1827
+132,Married,Secondary / secondary special,Drivers,Revolving loans,0,33,1,144000.0,0.0625,180000.0,9000.0,0.8
+133,Married,Secondary / secondary special,Laborers,Cash loans,0,32,1,157500.0,0.139,675000.0,21906.0,0.2333
+134,Married,Secondary / secondary special,Medicine staff,Cash loans,1,39,1,157500.0,0.2484,945000.0,39127.5,0.1666
+135,Married,Secondary / secondary special,n.a.,Cash loans,0,44,0,180000.0,0.3396,1755000.0,61132.5,0.10254
+136,Married,Incomplete higher,Core staff,Cash loans,0,33,1,180000.0,0.1527,590337.0,27486.0,0.305
+137,Married,Secondary / secondary special,Sales staff,Cash loans,1,40,0,225000.0,0.1858,1515415.5,41800.5,0.1484
+138,Married,Higher education,Managers,Cash loans,0,45,0,292500.0,0.1256,675000.0,36747.0,0.4333
+139,Married,Secondary / secondary special,Sales staff,Cash loans,1,44,0,90000.0,0.1553,370629.0,13972.5,0.2428
+140,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,57,0,112500.0,0.1619,547344.0,18216.0,0.2056
+141,Separated,Higher education,n.a.,Cash loans,1,54,0,130500.0,0.1515,550489.5,19773.0,0.237
+142,Civil marriage,Higher education,Core staff,Cash loans,1,44,1,450000.0,0.0964,407434.5,43362.0,1.1045
+143,Married,Secondary / secondary special,n.a.,Cash loans,1,60,0,175500.0,0.2026,1293502.5,35568.0,0.1356
+144,Married,Secondary / secondary special,Core staff,Cash loans,1,39,0,58500.0,0.2605,152820.0,15241.5,0.3828
+145,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,41,0,180000.0,0.2566,427500.0,46170.0,0.4211
+146,Single / not married,Higher education,Core staff,Cash loans,1,31,1,117000.0,0.2284,781920.0,26725.5,0.1497
+147,Married,Incomplete higher,Sales staff,Revolving loans,1,39,0,180000.0,0.0625,225000.0,11250.0,0.8
+148,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,44,0,202500.0,0.2225,1251072.0,45067.5,0.1619
+149,Married,Secondary / secondary special,Laborers,Cash loans,1,48,0,135000.0,0.2345,1078200.0,31653.0,0.1252
+150,Civil marriage,Secondary / secondary special,n.a.,Cash loans,0,39,1,112500.0,0.2961,312682.5,33309.0,0.3599
+151,Separated,Higher education,n.a.,Cash loans,1,52,0,119250.0,0.2424,679500.0,28917.0,0.1755
+152,Married,Higher education,Managers,Cash loans,1,31,1,202500.0,0.2634,675000.0,53329.5,0.3
+153,Married,Higher education,Accountants,Cash loans,1,42,0,315000.0,0.12,1288350.0,37800.0,0.2445
+154,Single / not married,Secondary / secondary special,Private service staff,Cash loans,1,48,0,157500.0,0.08044,245619.0,12667.5,0.641
+155,Separated,Secondary / secondary special,Core staff,Revolving loans,1,37,0,112500.0,0.06,135000.0,6750.0,0.8335
+156,Separated,Secondary / secondary special,n.a.,Cash loans,1,67,0,103500.0,0.227,239850.0,23494.5,0.4316
+157,Married,Secondary / secondary special,n.a.,Cash loans,0,55,0,58500.0,0.1864,187704.0,10903.5,0.3118
+158,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,59,0,117000.0,0.11194,269550.0,13095.0,0.434
+159,Married,Higher education,Core staff,Cash loans,1,41,1,225000.0,0.2502,1325475.0,56290.5,0.1698
+160,Separated,Incomplete higher,Sales staff,Cash loans,1,46,0,135000.0,0.107,263844.0,14440.5,0.5117
+161,Married,Higher education,Laborers,Cash loans,0,38,1,162000.0,0.153,263686.5,24781.5,0.6143
+162,Separated,Higher education,High skill tech staff,Cash loans,1,59,0,112500.0,0.1561,544491.0,17563.5,0.2067
+163,Single / not married,Secondary / secondary special,Core staff,Cash loans,1,21,1,111915.0,0.188,225000.0,21037.5,0.4973
+164,Separated,Secondary / secondary special,n.a.,Cash loans,1,48,1,225000.0,0.0672,296280.0,15124.5,0.7593
+165,Civil marriage,Higher education,Laborers,Revolving loans,1,35,0,157500.0,0.1,315000.0,15750.0,0.5
+166,Single / not married,Higher education,n.a.,Cash loans,0,29,0,90000.0,0.1041,336150.0,9373.5,0.2678
+167,Married,Higher education,Secretaries,Cash loans,1,31,0,164250.0,0.1956,755190.0,32125.5,0.2175
+168,Married,Secondary / secondary special,Sales staff,Cash loans,1,32,1,157500.0,0.1821,497520.0,28692.0,0.3167
+169,Married,Secondary / secondary special,Drivers,Cash loans,0,35,0,135000.0,0.2416,531000.0,32616.0,0.2542
+170,Married,Secondary / secondary special,Cleaning staff,Cash loans,1,57,0,112500.0,0.168,269550.0,18891.0,0.4175
+171,Widow,Secondary / secondary special,n.a.,Cash loans,1,46,1,216000.0,0.1259,450000.0,27193.5,0.48
+172,Single / not married,Higher education,Core staff,Cash loans,1,33,0,180000.0,0.2041,675000.0,36747.0,0.2666
+173,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,62,1,67500.0,0.0977,127350.0,6597.0,0.5303
+174,Widow,Secondary / secondary special,n.a.,Cash loans,1,68,1,54000.0,0.2054,119925.0,11097.0,0.4502
+175,Married,Secondary / secondary special,n.a.,Cash loans,1,53,0,81000.0,0.379,532494.0,30699.0,0.1521
+176,Married,Secondary / secondary special,Laborers,Cash loans,1,50,0,63000.0,0.4163,808650.0,26217.0,0.0779
+177,Married,Secondary / secondary special,Drivers,Cash loans,0,32,1,157500.0,0.1606,318528.0,25294.5,0.4944
+178,Civil marriage,Secondary / secondary special,Waiters/barmen staff,Cash loans,1,45,0,157500.0,0.1444,700830.0,22738.5,0.2247
+179,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,34,1,180000.0,0.1613,888840.0,29016.0,0.2025
+180,Married,Higher education,High skill tech staff,Revolving loans,0,41,0,180000.0,0.15,540000.0,27000.0,0.3333
+181,Separated,Higher education,Core staff,Cash loans,1,45,0,202500.0,0.1266,771493.5,25627.5,0.2625
+182,Married,Secondary / secondary special,Cooking staff,Cash loans,0,38,1,225000.0,0.2217,746280.0,49873.5,0.3015
+183,Married,Secondary / secondary special,Laborers,Cash loans,1,38,1,49500.0,0.4026,278460.0,19930.5,0.1777
+184,Civil marriage,Higher education,n.a.,Cash loans,1,27,0,202500.0,0.1409,436032.0,28516.5,0.4644
+185,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,59,1,90000.0,0.0908,227520.0,8172.0,0.3955
+186,Married,Secondary / secondary special,Sales staff,Cash loans,1,54,1,90000.0,0.0745,67500.0,6705.0,1.333
+187,Separated,Secondary / secondary special,Laborers,Cash loans,1,37,1,180000.0,0.1406,254700.0,25321.5,0.7065
+188,Single / not married,Higher education,Drivers,Cash loans,0,36,0,337500.0,0.1454,876078.0,49050.0,0.3853
+189,Married,Higher education,Core staff,Cash loans,0,30,0,315000.0,0.2651,2250000.0,83515.5,0.14
+190,Single / not married,Higher education,Sales staff,Cash loans,1,40,0,225000.0,0.1359,1040985.0,30568.5,0.2162
+191,Widow,Secondary / secondary special,n.a.,Cash loans,1,64,0,225000.0,0.3445,684054.0,77494.5,0.3289
+192,Married,Secondary / secondary special,n.a.,Cash loans,1,38,0,225000.0,0.1638,1256400.0,36864.0,0.1791
+193,Married,Secondary / secondary special,Sales staff,Cash loans,0,38,1,157500.0,0.1813,720000.0,28552.5,0.2188
+194,Married,Secondary / secondary special,Sales staff,Revolving loans,1,37,1,112500.0,0.12,270000.0,13500.0,0.4167
+195,Single / not married,Higher education,Managers,Cash loans,0,27,1,292500.0,0.1906,1024740.0,55719.0,0.2854
+196,Married,Secondary / secondary special,Laborers,Cash loans,1,38,1,121500.0,0.2664,1102500.0,32364.0,0.1102
+197,Married,Secondary / secondary special,Medicine staff,Cash loans,1,49,0,157500.0,0.10187,544491.0,16047.0,0.2893
+198,Married,Secondary / secondary special,Sales staff,Revolving loans,1,52,1,135000.0,0.15,405000.0,20250.0,0.3333
+199,Married,Secondary / secondary special,Drivers,Cash loans,0,48,0,108000.0,0.2803,912240.0,30276.0,0.1184
+200,Married,Secondary / secondary special,n.a.,Cash loans,1,50,0,216000.0,0.1339,679671.0,28926.0,0.3179
+201,Widow,Secondary / secondary special,Core staff,Revolving loans,1,45,1,67500.0,0.1333,180000.0,9000.0,0.375
+202,Married,Secondary / secondary special,Cooking staff,Cash loans,1,43,0,135000.0,0.1476,364896.0,19926.0,0.3699
+203,Married,Secondary / secondary special,Laborers,Cash loans,0,63,0,112500.0,0.1809,312768.0,20353.5,0.3596
+204,Civil marriage,Secondary / secondary special,Core staff,Cash loans,1,37,1,144000.0,0.2625,1288350.0,37800.0,0.11176
+205,Married,Secondary / secondary special,Laborers,Cash loans,0,35,0,135000.0,0.3716,781920.0,50148.0,0.1726
+206,Married,Secondary / secondary special,Accountants,Cash loans,1,55,0,225000.0,0.2297,1483231.5,51687.0,0.1517
+207,Married,Secondary / secondary special,Laborers,Cash loans,0,32,0,135000.0,0.2113,590337.0,28530.0,0.2286
+208,Married,Secondary / secondary special,Drivers,Cash loans,0,57,0,90000.0,0.1203,101880.0,10827.0,0.8833
+209,Married,Higher education,Laborers,Cash loans,0,26,0,112500.0,0.123,161730.0,13833.0,0.696
+210,Married,Secondary / secondary special,Laborers,Cash loans,0,46,1,247500.0,0.1434,447768.0,35505.0,0.5527
+211,Married,Secondary / secondary special,Laborers,Cash loans,1,35,0,135000.0,0.2,495216.0,26995.5,0.2727
+212,Married,Secondary / secondary special,Laborers,Cash loans,1,54,0,225000.0,0.0861,402939.0,19381.5,0.5586
+213,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,61,0,90000.0,0.2627,808650.0,23643.0,0.11127
+214,Married,Secondary / secondary special,Laborers,Cash loans,1,41,0,67500.0,0.0669,76410.0,4513.5,0.8833
+215,Married,Secondary / secondary special,Laborers,Cash loans,1,30,1,72000.0,0.0907,90000.0,6529.5,0.8
+216,Married,Secondary / secondary special,Drivers,Cash loans,0,53,0,202500.0,0.0698,270000.0,14134.5,0.75
+217,Married,Secondary / secondary special,Sales staff,Cash loans,1,48,0,225000.0,0.224,490495.5,50391.0,0.4587
+218,Married,Higher education,Drivers,Cash loans,0,59,0,292500.0,0.1193,1078200.0,34911.0,0.2712
+219,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,42,0,315000.0,0.1677,824544.0,52825.5,0.382
+220,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,63,0,90000.0,0.1791,312768.0,16119.0,0.2878
+221,Civil marriage,Secondary / secondary special,Cooking staff,Cash loans,1,44,0,135000.0,0.0677,81000.0,9135.0,1.667
+222,Married,Secondary / secondary special,n.a.,Cash loans,0,56,0,180000.0,0.12195,427500.0,21955.5,0.4211
+223,Single / not married,Higher education,Core staff,Cash loans,0,27,0,180000.0,0.11383,180000.0,20488.5,1.0
+224,Married,Secondary / secondary special,Laborers,Cash loans,1,41,0,90000.0,0.2472,522000.0,22243.5,0.1724
+225,Married,Secondary / secondary special,Drivers,Cash loans,0,37,0,315000.0,0.132,1575000.0,41548.5,0.2
+226,Widow,Higher education,n.a.,Cash loans,1,64,0,108000.0,0.3025,585000.0,32665.5,0.1846
+227,Married,Higher education,n.a.,Cash loans,1,63,0,121500.0,0.3965,1215000.0,48186.0,0.1
+228,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,22,0,112500.0,0.3108,723996.0,34960.5,0.1554
+229,Widow,Secondary / secondary special,n.a.,Cash loans,1,51,1,157500.0,0.234,1256400.0,36864.0,0.1254
+230,Married,Higher education,Managers,Cash loans,0,37,0,225000.0,0.0797,675000.0,17937.0,0.3333
+231,Married,Secondary / secondary special,Laborers,Cash loans,1,28,1,85500.0,0.211,225000.0,18040.5,0.38
+232,Married,Secondary / secondary special,Laborers,Cash loans,0,30,0,180000.0,0.1295,427450.5,23319.0,0.4211
+233,Married,Higher education,n.a.,Revolving loans,1,58,0,90000.0,0.1875,337500.0,16875.0,0.2666
+234,Married,Secondary / secondary special,Sales staff,Revolving loans,1,25,0,135000.0,0.06665,180000.0,9000.0,0.75
+235,Married,Secondary / secondary special,Medicine staff,Cash loans,1,63,0,157500.0,0.4207,1710000.0,66262.5,0.0921
+236,Civil marriage,Secondary / secondary special,Drivers,Cash loans,0,42,0,308250.0,0.1242,1305000.0,38281.5,0.2362
+237,Widow,Secondary / secondary special,n.a.,Cash loans,1,64,0,108000.0,0.1729,646920.0,18670.5,0.167
+238,Married,Secondary / secondary special,Private service staff,Cash loans,1,33,0,135000.0,0.2922,497520.0,39438.0,0.2712
+239,Married,Secondary / secondary special,n.a.,Cash loans,0,59,1,67500.0,0.24,364896.0,16200.0,0.1849
+240,Widow,Secondary / secondary special,n.a.,Cash loans,0,65,0,180000.0,0.0911,254700.0,16407.0,0.7065
+241,Widow,Secondary / secondary special,Sales staff,Cash loans,1,49,0,112500.0,0.1947,675000.0,21906.0,0.1666
+242,Single / not married,Higher education,Managers,Revolving loans,1,25,0,73341.0,0.09204,135000.0,6750.0,0.5435
+243,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,34,0,135000.0,0.2834,747000.0,38268.0,0.1807
+244,Married,Higher education,Laborers,Cash loans,0,39,0,180000.0,0.1659,675000.0,29862.0,0.2666
+245,Civil marriage,Secondary / secondary special,Cooking staff,Revolving loans,1,29,0,112500.0,0.08,180000.0,9000.0,0.625
+246,Married,Secondary / secondary special,Drivers,Cash loans,0,48,0,121500.0,0.1423,263686.5,17298.0,0.4607
+247,Married,Higher education,n.a.,Cash loans,1,68,0,202500.0,0.11053,225000.0,22383.0,0.9
+248,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,27,1,157500.0,0.1389,450000.0,21888.0,0.35
+249,Married,Higher education,Managers,Cash loans,0,40,1,202500.0,0.1327,526491.0,26878.5,0.3845
+250,Separated,Secondary / secondary special,Core staff,Cash loans,0,40,1,135000.0,0.1312,224136.0,17707.5,0.6025
+251,Married,Incomplete higher,Sales staff,Cash loans,1,32,1,153000.0,0.0938,292500.0,14355.0,0.523
+252,Married,Secondary / secondary special,n.a.,Cash loans,1,58,0,202500.0,0.1475,675000.0,29862.0,0.3
+253,Married,Higher education,Managers,Cash loans,1,39,0,202500.0,0.3257,1271281.5,65956.5,0.1593
+254,Widow,Secondary / secondary special,Core staff,Cash loans,1,57,0,157500.0,0.2247,835380.0,35392.5,0.1885
+255,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,31,1,225000.0,0.138,1019205.0,31032.0,0.2207
+256,Married,Secondary / secondary special,Drivers,Cash loans,0,47,0,225000.0,0.1077,223884.0,24241.5,1.005
+257,Married,Secondary / secondary special,Drivers,Cash loans,0,28,1,135000.0,0.1263,334152.0,17059.5,0.404
+258,Married,Secondary / secondary special,Managers,Cash loans,1,44,0,270000.0,0.1803,473760.0,48676.5,0.57
+259,Married,Secondary / secondary special,Medicine staff,Revolving loans,1,52,0,112500.0,0.24,540000.0,27000.0,0.2084
+260,Single / not married,Secondary / secondary special,Sales staff,Cash loans,0,33,1,63000.0,0.3567,426645.0,22468.5,0.1477
+261,Married,Secondary / secondary special,Laborers,Cash loans,0,22,0,112500.0,0.2766,571486.5,31131.0,0.1969
+262,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,24,0,180000.0,0.05142,187704.0,9256.5,0.959
+263,Widow,Secondary / secondary special,n.a.,Cash loans,1,65,0,292500.0,0.0537,254700.0,15709.5,1.148
+264,Single / not married,Secondary / secondary special,n.a.,Revolving loans,1,62,0,225000.0,0.15,675000.0,33750.0,0.3333
+265,Single / not married,Incomplete higher,Sales staff,Cash loans,0,24,0,135000.0,0.1183,237024.0,15970.5,0.5693
+266,Married,Secondary / secondary special,Managers,Cash loans,0,45,0,225000.0,0.1592,451804.5,35824.5,0.498
+267,Married,Higher education,Sales staff,Cash loans,0,39,1,157500.0,0.139,208512.0,21892.5,0.7554
+268,Married,Secondary / secondary special,Laborers,Cash loans,1,44,0,157500.0,0.0969,263686.5,15268.5,0.597
+269,Married,Higher education,n.a.,Cash loans,0,40,1,180000.0,0.174,1071000.0,31315.5,0.1681
+270,Married,Higher education,n.a.,Cash loans,1,61,0,87750.0,0.4036,1206954.0,35419.5,0.0727
+271,Married,Secondary / secondary special,Laborers,Cash loans,0,29,1,292500.0,0.08875,239850.0,25960.5,1.22
+272,Married,Higher education,Sales staff,Cash loans,1,27,0,121500.0,0.1733,288873.0,21064.5,0.4207
+273,Married,Secondary / secondary special,Core staff,Cash loans,1,41,0,67500.0,0.3926,622413.0,26500.5,0.10846
+274,Married,Higher education,Core staff,Cash loans,1,46,0,180000.0,0.1691,630000.0,30438.0,0.2856
+275,Single / not married,Higher education,Core staff,Cash loans,1,26,1,90000.0,0.1345,381528.0,12109.5,0.2358
+276,Married,Higher education,n.a.,Cash loans,1,31,0,135000.0,0.2434,781920.0,32868.0,0.1726
+277,Married,Secondary / secondary special,High skill tech staff,Cash loans,0,32,0,225000.0,0.2195,481855.5,49374.0,0.467
+278,Civil marriage,Secondary / secondary special,n.a.,Cash loans,0,37,1,270000.0,0.11664,521280.0,31500.0,0.518
+279,Married,Secondary / secondary special,Laborers,Cash loans,0,52,0,225000.0,0.11945,254700.0,26874.0,0.8833
+280,Married,Higher education,Managers,Cash loans,0,49,0,450000.0,0.124,1575000.0,55800.0,0.2856
+281,Separated,Secondary / secondary special,Sales staff,Cash loans,1,28,0,112500.0,0.1624,152820.0,18265.5,0.7363
+282,Married,Secondary / secondary special,Laborers,Cash loans,1,55,0,135000.0,0.2316,640080.0,31261.5,0.2109
+283,Civil marriage,Secondary / secondary special,n.a.,Cash loans,0,60,0,36000.0,0.3013,284400.0,10849.5,0.1266
+284,Married,Secondary / secondary special,n.a.,Cash loans,0,55,0,180000.0,0.1797,407727.0,32341.5,0.4414
+285,Married,Secondary / secondary special,Core staff,Cash loans,1,43,1,171000.0,0.2463,1270746.0,42124.5,0.1345
+286,Married,Secondary / secondary special,n.a.,Cash loans,1,54,0,135000.0,0.1312,247275.0,17716.5,0.546
+287,Widow,Secondary / secondary special,n.a.,Cash loans,1,64,0,157500.0,0.1312,545040.0,20677.5,0.289
+288,Married,Incomplete higher,Core staff,Cash loans,1,28,0,382500.0,0.079,450000.0,30204.0,0.85
+289,Married,Secondary / secondary special,Security staff,Cash loans,0,51,0,90000.0,0.1215,101880.0,10939.5,0.8833
+290,Widow,Secondary / secondary special,n.a.,Cash loans,1,64,0,63000.0,0.3132,675000.0,19737.0,0.0933
+291,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,38,0,157500.0,0.1821,497520.0,28692.0,0.3167
+292,Single / not married,Higher education,Realty agents,Cash loans,1,25,0,270000.0,0.0987,545040.0,26640.0,0.4954
+293,Civil marriage,Secondary / secondary special,High skill tech staff,Cash loans,1,58,1,270000.0,0.0862,630000.0,23274.0,0.4285
+294,Married,Secondary / secondary special,Laborers,Revolving loans,0,59,0,166500.0,0.1487,495000.0,24750.0,0.3364
+295,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,35,1,202500.0,0.2177,787131.0,44082.0,0.2573
+296,Widow,Secondary / secondary special,Laborers,Cash loans,0,55,0,76500.0,0.2703,545040.0,20677.5,0.1404
+297,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,23,1,90000.0,0.1203,101880.0,10827.0,0.8833
+298,Single / not married,Secondary / secondary special,Drivers,Cash loans,0,29,0,315000.0,0.0143,90000.0,4504.5,3.5
+299,Married,Higher education,Laborers,Cash loans,0,30,1,112500.0,0.1302,225000.0,14647.5,0.5
+300,Married,Secondary / secondary special,Laborers,Cash loans,1,57,1,157500.0,0.1085,450000.0,17095.5,0.35
+301,Separated,Higher education,Core staff,Cash loans,1,48,0,180000.0,0.1433,582804.0,25803.0,0.3088
+302,Married,Secondary / secondary special,n.a.,Cash loans,1,58,1,81000.0,0.2854,640080.0,23121.0,0.1266
+303,Married,Incomplete higher,n.a.,Cash loans,1,28,1,135000.0,0.3555,1223010.0,47983.5,0.1104
+304,Widow,Secondary / secondary special,n.a.,Cash loans,1,63,1,108000.0,0.2172,364896.0,23449.5,0.296
+305,Married,Secondary / secondary special,n.a.,Cash loans,1,62,0,112500.0,0.283,481495.5,31833.0,0.2336
+306,Married,Secondary / secondary special,n.a.,Cash loans,1,61,1,69750.0,0.2954,675000.0,20596.5,0.10333
+307,Widow,Secondary / secondary special,Sales staff,Cash loans,1,49,0,81000.0,0.238,536917.5,19282.5,0.1509
+308,Single / not married,Secondary / secondary special,Sales staff,Revolving loans,1,25,0,112500.0,0.06,135000.0,6750.0,0.8335
+309,Married,Secondary / secondary special,n.a.,Cash loans,0,25,0,315000.0,0.1362,946503.0,42898.5,0.3328
+310,Widow,Secondary / secondary special,Cleaning staff,Cash loans,1,57,0,180000.0,0.083,188685.0,14944.5,0.954
+311,Civil marriage,Incomplete higher,Accountants,Revolving loans,1,25,0,225000.0,0.04,180000.0,9000.0,1.25
+312,Married,Secondary / secondary special,Laborers,Cash loans,0,40,0,112500.0,0.09924,226908.0,11164.5,0.4958
+313,Married,Secondary / secondary special,n.a.,Revolving loans,1,53,1,67500.0,0.15,202500.0,10125.0,0.3333
+314,Married,Secondary / secondary special,Laborers,Cash loans,0,46,0,270000.0,0.2322,1800000.0,62698.5,0.15
+315,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,47,0,157500.0,0.1704,807984.0,26833.5,0.195
+316,Married,Higher education,Core staff,Cash loans,1,40,0,360000.0,0.136,493497.0,48942.0,0.7295
+317,Married,Secondary / secondary special,Laborers,Cash loans,1,47,1,315000.0,0.09546,1024290.0,30078.0,0.3076
+318,Married,Higher education,n.a.,Cash loans,1,55,0,247500.0,0.0794,517788.0,19647.0,0.478
+319,Single / not married,Higher education,Managers,Revolving loans,0,32,0,765000.0,0.08826,1350000.0,67500.0,0.567
+320,Married,Secondary / secondary special,n.a.,Cash loans,1,30,0,166500.0,0.1456,675000.0,24246.0,0.2467
+321,Married,Secondary / secondary special,Laborers,Cash loans,1,52,0,157500.0,0.1431,528633.0,22527.0,0.2979
+322,Married,Secondary / secondary special,n.a.,Cash loans,1,63,0,45000.0,0.3606,448056.0,16222.5,0.10046
+323,Civil marriage,Higher education,Core staff,Cash loans,1,40,0,450000.0,0.06995,808650.0,31464.0,0.5566
+324,Married,Secondary / secondary special,n.a.,Cash loans,1,60,1,90000.0,0.3308,531000.0,29781.0,0.1694
+325,Married,Secondary / secondary special,Core staff,Cash loans,1,41,1,225000.0,0.2057,906228.0,46269.0,0.2483
+326,Married,Secondary / secondary special,Laborers,Cash loans,1,41,0,112500.0,0.3765,1308964.5,42354.0,0.08594
+327,Married,Higher education,n.a.,Cash loans,0,59,0,180000.0,0.1696,942300.0,30528.0,0.191
+328,Married,Secondary / secondary special,Drivers,Cash loans,0,51,0,360000.0,0.05624,254700.0,20250.0,1.413
+329,Married,Higher education,High skill tech staff,Cash loans,0,39,1,157500.0,0.1616,239850.0,25447.5,0.6567
+330,Widow,Secondary / secondary special,Sales staff,Cash loans,1,41,0,247500.0,0.10596,808650.0,26217.0,0.3062
+331,Married,Secondary / secondary special,Drivers,Cash loans,0,52,0,112500.0,0.2712,942300.0,30528.0,0.1194
+332,Married,Higher education,High skill tech staff,Cash loans,1,41,0,630000.0,0.0913,900000.0,57519.0,0.7
+333,Single / not married,Higher education,n.a.,Cash loans,1,30,1,121500.0,0.0949,302544.0,11533.5,0.4016
+334,Married,Secondary / secondary special,Drivers,Cash loans,0,37,1,180000.0,0.1163,640080.0,20929.5,0.2812
+335,Married,Secondary / secondary special,Drivers,Cash loans,0,36,0,292500.0,0.149,1095817.5,43587.0,0.2668
+336,Separated,Secondary / secondary special,Secretaries,Cash loans,1,51,0,99000.0,0.2091,518562.0,20695.5,0.1909
+337,Married,Higher education,Core staff,Cash loans,0,38,0,247500.0,0.2773,1971072.0,68643.0,0.1256
+338,Married,Higher education,High skill tech staff,Cash loans,1,32,1,90000.0,0.1642,555273.0,14778.0,0.1621
+339,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,50,0,153000.0,0.1714,808650.0,26217.0,0.1892
+340,Civil marriage,Secondary / secondary special,Laborers,Revolving loans,0,33,1,180000.0,0.05,180000.0,9000.0,1.0
+341,Married,Higher education,Core staff,Cash loans,0,41,0,405000.0,0.1469,2250000.0,59485.5,0.18
+342,Married,Secondary / secondary special,n.a.,Cash loans,0,64,0,112500.0,0.0981,178290.0,11034.0,0.631
+343,Married,Secondary / secondary special,Drivers,Cash loans,0,45,0,225000.0,0.1425,888840.0,32053.5,0.2532
+344,Single / not married,Secondary / secondary special,n.a.,Cash loans,0,37,1,112500.0,0.2252,417024.0,25330.5,0.2698
+345,Married,Secondary / secondary special,Medicine staff,Cash loans,1,62,0,144000.0,0.2605,1417185.0,37512.0,0.1016
+346,Civil marriage,Secondary / secondary special,Cleaning staff,Cash loans,1,54,0,81000.0,0.1069,180000.0,8658.0,0.45
+347,Married,Secondary / secondary special,n.a.,Cash loans,1,63,1,270000.0,0.1054,536917.5,28467.0,0.503
+348,Separated,Secondary / secondary special,n.a.,Cash loans,1,55,0,202500.0,0.0823,343683.0,16663.5,0.5894
+349,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,54,0,81000.0,0.2695,276277.5,21825.0,0.2932
+350,Married,Higher education,Sales staff,Cash loans,0,29,0,315000.0,0.1257,1350000.0,39604.5,0.2333
+351,Single / not married,Secondary / secondary special,Core staff,Cash loans,0,23,0,180000.0,0.1223,450000.0,22018.5,0.4
+352,Married,Secondary / secondary special,n.a.,Cash loans,1,57,0,135000.0,0.2527,468648.0,34101.0,0.288
+353,Married,Higher education,Security staff,Cash loans,1,31,1,157500.0,0.1698,521280.0,26743.5,0.3022
+354,Separated,Incomplete higher,Cleaning staff,Cash loans,1,43,0,81000.0,0.36,454500.0,29173.5,0.1782
+355,Single / not married,Incomplete higher,Drivers,Cash loans,0,28,0,112500.0,0.2074,454500.0,23337.0,0.2476
+356,Married,Secondary / secondary special,Managers,Cash loans,1,39,1,180000.0,0.3127,1258650.0,56277.0,0.1431
+357,Married,Higher education,Managers,Cash loans,0,53,1,450000.0,0.0743,1035832.5,33412.5,0.4343
+358,Married,Secondary / secondary special,Medicine staff,Cash loans,1,30,0,135000.0,0.1874,318528.0,25294.5,0.4238
+359,Married,Secondary / secondary special,n.a.,Cash loans,0,62,0,90000.0,0.1039,90000.0,9351.0,1.0
+360,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,33,0,112500.0,0.2432,533304.0,27360.0,0.2109
+361,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,37,0,112500.0,0.3398,792162.0,38241.0,0.142
+362,Widow,Secondary / secondary special,Core staff,Cash loans,1,44,0,180000.0,0.2025,755190.0,36459.0,0.2384
+363,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,36,1,135000.0,0.2333,521280.0,31500.0,0.259
+364,Separated,Secondary / secondary special,n.a.,Cash loans,1,55,0,112500.0,0.11926,454500.0,13419.0,0.2476
+365,Married,Secondary / secondary special,Sales staff,Cash loans,1,39,0,54000.0,0.1703,91692.0,9198.0,0.589
+366,Single / not married,Higher education,Managers,Cash loans,0,52,1,450000.0,0.07117,900000.0,32017.5,0.5
+367,Married,Higher education,High skill tech staff,Cash loans,1,44,0,472500.0,0.09094,1327648.5,42957.0,0.356
+368,Separated,Secondary / secondary special,Laborers,Cash loans,0,50,0,112500.0,0.11053,117162.0,12433.5,0.9604
+369,Married,Higher education,Core staff,Cash loans,1,35,0,90000.0,0.2251,688500.0,20259.0,0.1307
+370,Married,Higher education,Managers,Cash loans,1,36,1,67500.0,0.451,450000.0,30442.5,0.15
+371,Married,Higher education,Drivers,Cash loans,1,54,0,90000.0,0.3994,1224990.0,35946.0,0.0735
+372,Married,Secondary / secondary special,Laborers,Cash loans,0,42,0,180000.0,0.1488,629325.0,26793.0,0.2861
+373,Married,Secondary / secondary special,Core staff,Cash loans,1,23,0,90000.0,0.1904,157914.0,17136.0,0.57
+374,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,53,0,157500.0,0.3018,1724220.0,47542.5,0.0914
+375,Married,Secondary / secondary special,Secretaries,Cash loans,1,28,1,90000.0,0.2808,495000.0,25272.0,0.1818
+376,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,43,0,157500.0,0.2886,472500.0,45454.5,0.3333
+377,Separated,Secondary / secondary special,Medicine staff,Cash loans,1,48,0,202500.0,0.1497,280170.0,30303.0,0.7227
+378,Separated,Secondary / secondary special,n.a.,Cash loans,1,45,0,112500.0,0.1449,450000.0,16294.5,0.25
+379,Married,Secondary / secondary special,Sales staff,Revolving loans,1,53,0,112500.0,0.18,405000.0,20250.0,0.2778
+380,Married,Secondary / secondary special,n.a.,Cash loans,1,58,0,67500.0,0.4585,817560.0,30951.0,0.0826
+381,Married,Secondary / secondary special,High skill tech staff,Cash loans,0,22,0,81000.0,0.2827,312840.0,22891.5,0.259
+382,Married,Secondary / secondary special,n.a.,Cash loans,1,65,0,40500.0,0.1837,127350.0,7438.5,0.318
+383,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,55,0,135000.0,0.0846,269550.0,11416.5,0.501
+384,Married,Secondary / secondary special,Cooking staff,Cash loans,1,51,1,148500.0,0.216,805536.0,32076.0,0.1843
+385,Widow,Secondary / secondary special,n.a.,Cash loans,1,63,0,144000.0,0.1617,456273.0,23296.5,0.3157
+386,Married,Secondary / secondary special,Sales staff,Cash loans,1,32,0,202500.0,0.1249,598486.5,25290.0,0.3384
+387,Separated,Higher education,Laborers,Cash loans,1,46,0,157500.0,0.1758,942300.0,27679.5,0.1671
+388,Married,Secondary / secondary special,Laborers,Cash loans,1,53,0,144000.0,0.1179,446931.0,16978.5,0.3223
+389,Married,Secondary / secondary special,n.a.,Cash loans,0,51,0,171000.0,0.2128,1009566.0,36391.5,0.1694
+390,Married,Higher education,n.a.,Cash loans,0,33,1,247500.0,0.1108,521280.0,27423.0,0.4749
+391,Married,Higher education,Managers,Revolving loans,0,37,0,607500.0,0.1111,1350000.0,67500.0,0.45
+392,Married,Higher education,Core staff,Cash loans,1,31,0,135000.0,0.1798,830214.0,24273.0,0.1626
+393,Married,Secondary / secondary special,Drivers,Cash loans,0,33,0,211500.0,0.126,545040.0,26640.0,0.388
+394,Single / not married,Higher education,Core staff,Revolving loans,1,24,0,211500.0,0.06384,270000.0,13500.0,0.783
+395,Married,Secondary / secondary special,n.a.,Cash loans,1,56,1,90000.0,0.2913,808650.0,26217.0,0.11127
+396,Single / not married,Secondary / secondary special,Drivers,Revolving loans,0,43,0,270000.0,0.04166,225000.0,11250.0,1.2
+397,Single / not married,Higher education,n.a.,Revolving loans,1,26,1,315000.0,0.0857,540000.0,27000.0,0.5835
+398,Married,Secondary / secondary special,Core staff,Cash loans,1,43,0,252000.0,0.06635,288873.0,16713.0,0.8726
+399,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,44,1,111919.5,0.0707,152820.0,7911.0,0.7324
+400,Married,Secondary / secondary special,n.a.,Cash loans,1,39,1,112500.0,0.1357,263686.5,15268.5,0.4268
+401,Single / not married,Secondary / secondary special,Drivers,Cash loans,0,26,1,112500.0,0.1569,345510.0,17640.0,0.3257
+402,Married,Secondary / secondary special,Laborers,Cash loans,0,43,1,135000.0,0.1532,545040.0,20677.5,0.2477
+403,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,49,1,81000.0,0.164,225000.0,13284.0,0.36
+404,Married,Secondary / secondary special,n.a.,Cash loans,1,50,1,112500.0,0.2122,900000.0,23872.5,0.125
+405,Married,Higher education,Managers,Revolving loans,0,28,0,450000.0,0.15,1350000.0,67500.0,0.3333
+406,Married,Higher education,n.a.,Cash loans,1,42,0,225000.0,0.1754,1345500.0,39469.5,0.1672
+407,Married,Secondary / secondary special,Laborers,Cash loans,1,41,0,112500.0,0.3176,697500.0,35743.5,0.1613
+408,Married,Secondary / secondary special,Laborers,Cash loans,0,38,0,135000.0,0.1964,545040.0,26509.5,0.2477
+409,Married,Higher education,Managers,Cash loans,0,44,0,405000.0,0.1276,1483231.5,51687.0,0.273
+410,Married,Higher education,Managers,Revolving loans,0,63,1,450000.0,0.1,900000.0,45000.0,0.5
+411,Separated,Higher education,Accountants,Revolving loans,1,55,0,405000.0,0.0611,495000.0,24750.0,0.8184
+412,Married,Secondary / secondary special,Laborers,Cash loans,0,50,0,225000.0,0.1392,509922.0,31324.5,0.4412
+413,Married,Secondary / secondary special,Drivers,Cash loans,0,37,0,112500.0,0.2009,284400.0,22599.0,0.3955
+414,Married,Secondary / secondary special,Laborers,Cash loans,1,32,0,90000.0,0.2247,393543.0,20223.0,0.2286
+415,Single / not married,Secondary / secondary special,Laborers,Revolving loans,0,26,0,90000.0,0.1,180000.0,9000.0,0.5
+416,Single / not married,Secondary / secondary special,IT staff,Cash loans,0,27,1,450000.0,0.1117,473760.0,50269.5,0.9497
+417,Married,Secondary / secondary special,Laborers,Revolving loans,0,48,0,180000.0,0.15,540000.0,27000.0,0.3333
+418,Civil marriage,Secondary / secondary special,Medicine staff,Cash loans,1,50,0,112500.0,0.1504,445500.0,16924.5,0.2524
+419,Married,Secondary / secondary special,Security staff,Revolving loans,0,31,1,270000.0,0.15,810000.0,40500.0,0.3333
+420,Widow,Secondary / secondary special,n.a.,Cash loans,1,65,0,58500.0,0.222,172021.5,12991.5,0.34
+421,Married,Secondary / secondary special,n.a.,Cash loans,0,45,1,121500.0,0.1875,630747.0,22783.5,0.1926
+422,Single / not married,Higher education,Core staff,Cash loans,1,41,1,270000.0,0.0892,364896.0,24075.0,0.7397
+423,Married,Secondary / secondary special,Laborers,Cash loans,0,54,0,90000.0,0.2869,238500.0,25816.5,0.3774
+424,Separated,Secondary / secondary special,Security staff,Cash loans,0,26,1,135000.0,0.2866,755190.0,38686.5,0.1787
+425,Married,Secondary / secondary special,Drivers,Cash loans,0,32,1,193500.0,0.08875,314100.0,17167.5,0.616
+426,Separated,Higher education,Core staff,Cash loans,1,34,0,450000.0,0.1279,716161.5,57550.5,0.6284
+427,Married,Higher education,n.a.,Cash loans,1,51,0,270000.0,0.1544,1288350.0,41692.5,0.2096
+428,Married,Secondary / secondary special,n.a.,Cash loans,1,36,1,112500.0,0.2634,832500.0,29623.5,0.1351
+429,Married,Secondary / secondary special,Sales staff,Cash loans,1,51,0,450000.0,0.07336,1125000.0,33025.5,0.4
+430,Single / not married,Secondary / secondary special,Low-skill Laborers,Revolving loans,0,24,0,135000.0,0.06665,180000.0,9000.0,0.75
+431,Married,Secondary / secondary special,n.a.,Cash loans,0,45,0,112500.0,0.2213,485190.0,24903.0,0.2318
+432,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,36,0,225000.0,0.1643,678996.0,36963.0,0.3313
+433,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,50,1,202500.0,0.1759,840951.0,35631.0,0.2408
+434,Single / not married,Higher education,Laborers,Cash loans,0,37,1,247500.0,0.1204,1125000.0,29808.0,0.22
+435,Married,Higher education,Core staff,Cash loans,1,44,0,202500.0,0.2058,485640.0,41674.5,0.417
+436,Married,Secondary / secondary special,n.a.,Cash loans,1,61,0,189000.0,0.1844,876019.5,34870.5,0.2157
+437,Single / not married,Secondary / secondary special,Core staff,Cash loans,1,50,0,157500.0,0.08044,187704.0,12672.0,0.839
+438,Married,Secondary / secondary special,Security staff,Cash loans,0,47,0,225000.0,0.1102,675000.0,24799.5,0.3333
+439,Married,Secondary / secondary special,n.a.,Cash loans,0,40,0,112500.0,0.1444,345645.0,16240.5,0.3254
+440,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,0,21,1,202500.0,0.2078,450000.0,42075.0,0.45
+441,Married,Higher education,Managers,Cash loans,1,50,0,450000.0,0.1378,1971072.0,62019.0,0.2283
+442,Separated,Secondary / secondary special,n.a.,Cash loans,1,60,0,90000.0,0.1368,339241.5,12312.0,0.2654
+443,Married,Secondary / secondary special,Sales staff,Cash loans,1,31,1,85500.0,0.2252,454500.0,19255.5,0.1881
+444,Married,Secondary / secondary special,n.a.,Cash loans,1,50,0,180000.0,0.2004,848745.0,36090.0,0.212
+445,Married,Higher education,n.a.,Cash loans,0,41,0,270000.0,0.1063,265306.5,28701.0,1.018
+446,Married,Secondary / secondary special,Laborers,Cash loans,1,48,0,157500.0,0.2786,1032093.0,43857.0,0.1526
+447,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,56,1,157500.0,0.0743,117000.0,11700.0,1.346
+448,Widow,Secondary / secondary special,n.a.,Revolving loans,1,62,0,117000.0,0.08655,202500.0,10125.0,0.5776
+449,Widow,Secondary / secondary special,n.a.,Cash loans,1,52,1,112500.0,0.2461,625536.0,27684.0,0.1798
+450,Single / not married,Secondary / secondary special,Laborers,Revolving loans,1,55,0,135000.0,0.1,270000.0,13500.0,0.5
+451,Married,Secondary / secondary special,n.a.,Revolving loans,1,56,1,157500.0,0.0714,225000.0,11250.0,0.7
+452,Married,Secondary / secondary special,n.a.,Cash loans,1,29,0,180000.0,0.1161,343683.0,20898.0,0.524
+453,Married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,50,0,225000.0,0.2349,1096020.0,52857.0,0.2053
+454,Married,Secondary / secondary special,n.a.,Cash loans,0,29,0,112500.0,0.1843,284400.0,20740.5,0.3955
+455,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,41,0,157500.0,0.0725,215640.0,11421.0,0.7305
+456,Married,Secondary / secondary special,Drivers,Cash loans,0,36,1,144000.0,0.0573,90000.0,8253.0,1.6
+457,Civil marriage,Higher education,Accountants,Revolving loans,1,25,1,112500.0,0.12,270000.0,13500.0,0.4167
+458,Married,Secondary / secondary special,n.a.,Cash loans,1,40,0,90000.0,0.2207,675000.0,19867.5,0.1333
+459,Single / not married,Higher education,Core staff,Cash loans,1,24,0,135000.0,0.132,269550.0,17820.0,0.501
+460,Married,Secondary / secondary special,Sales staff,Cash loans,1,49,0,135000.0,0.2578,770292.0,34807.5,0.1753
+461,Married,Higher education,Core staff,Cash loans,1,33,0,112500.0,0.2223,904500.0,25002.0,0.1244
+462,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,50,0,99000.0,0.1322,277969.5,13086.0,0.3562
+463,Married,Secondary / secondary special,Laborers,Revolving loans,0,42,0,121500.0,0.1573,382500.0,19125.0,0.3176
+464,Married,Secondary / secondary special,Laborers,Cash loans,1,38,1,157500.0,0.09174,256500.0,14449.5,0.6143
+465,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,56,1,90000.0,0.1292,225000.0,11619.0,0.4
+466,Married,Secondary / secondary special,Sales staff,Cash loans,1,39,0,99000.0,0.4248,787131.0,42066.0,0.1257
+467,Married,Higher education,Accountants,Cash loans,1,31,0,180000.0,0.2092,1044724.5,37656.0,0.1722
+468,Married,Secondary / secondary special,Security staff,Cash loans,0,44,1,157500.0,0.155,450000.0,24412.5,0.35
+469,Single / not married,Secondary / secondary special,Core staff,Cash loans,0,40,0,184500.0,0.1206,225000.0,22252.5,0.82
+470,Single / not married,Secondary / secondary special,Medicine staff,Cash loans,1,25,0,157500.0,0.1708,338832.0,26901.0,0.4648
+471,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,29,1,180000.0,0.2406,900000.0,43299.0,0.2
+472,Married,Secondary / secondary special,Medicine staff,Cash loans,1,44,0,112500.0,0.1,156339.0,11245.5,0.7197
+473,Separated,Secondary / secondary special,n.a.,Cash loans,1,55,0,157500.0,0.1696,225000.0,26703.0,0.7
+474,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,37,0,96750.0,0.1362,252000.0,13176.0,0.384
+475,Married,Secondary / secondary special,n.a.,Cash loans,1,52,0,144000.0,0.2065,1012500.0,29736.0,0.1422
+476,Married,Secondary / secondary special,n.a.,Cash loans,0,64,0,67500.0,0.321,508495.5,21672.0,0.1327
+477,Married,Secondary / secondary special,High skill tech staff,Cash loans,0,27,1,211500.0,0.1035,450000.0,21888.0,0.47
+478,Single / not married,Secondary / secondary special,Private service staff,Cash loans,1,45,0,225000.0,0.126,545040.0,28350.0,0.4128
+479,Married,Higher education,Laborers,Cash loans,1,37,0,247500.0,0.0977,669591.0,24178.5,0.3696
+480,Married,Higher education,Managers,Cash loans,1,32,0,225000.0,0.1381,1125000.0,31068.0,0.2
+481,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,33,1,112500.0,0.1532,337500.0,17230.5,0.3333
+482,Widow,Secondary / secondary special,n.a.,Cash loans,1,62,0,58500.0,0.0848,50940.0,4959.0,1.148
+483,Married,Incomplete higher,Sales staff,Cash loans,1,29,0,225000.0,0.1946,1320975.0,43785.0,0.1703
+484,Married,Secondary / secondary special,Laborers,Revolving loans,0,53,0,157500.0,0.0857,270000.0,13500.0,0.5835
+485,Married,Higher education,Core staff,Cash loans,1,56,0,450000.0,0.2583,2286211.5,116266.5,0.1968
+486,Married,Higher education,n.a.,Cash loans,1,57,1,49500.0,0.232,225000.0,11488.5,0.22
+487,Married,Higher education,Managers,Revolving loans,0,33,0,337500.0,0.1,675000.0,33750.0,0.5
+488,Married,Secondary / secondary special,Sales staff,Cash loans,1,41,0,135000.0,0.2888,1175314.5,38974.5,0.11487
+489,Married,Secondary / secondary special,Drivers,Cash loans,0,44,0,180000.0,0.224,835380.0,40320.0,0.2155
+490,Married,Secondary / secondary special,n.a.,Cash loans,1,57,0,112500.0,0.2229,518562.0,25078.5,0.2169
+491,Married,Secondary / secondary special,Cooking staff,Cash loans,1,49,0,117000.0,0.2343,932643.0,27400.5,0.1255
+492,Married,Secondary / secondary special,Sales staff,Revolving loans,0,22,0,99000.0,0.0909,180000.0,9000.0,0.55
+493,Married,Secondary / secondary special,Laborers,Cash loans,1,36,1,180000.0,0.2052,1395000.0,36927.0,0.129
+494,Married,Secondary / secondary special,Drivers,Cash loans,0,27,0,292500.0,0.1338,983299.5,39127.5,0.2974
+495,Married,Lower secondary,n.a.,Cash loans,1,52,0,31500.0,0.4265,314055.0,13437.0,0.1003
+496,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,36,1,157500.0,0.1686,961146.0,26559.0,0.1638
+497,Married,Higher education,Drivers,Cash loans,0,50,0,225000.0,0.267,1125000.0,60070.5,0.2
+498,Civil marriage,Higher education,n.a.,Cash loans,0,61,0,108000.0,0.1628,247275.0,17586.0,0.4368
+499,Married,Secondary / secondary special,Cooking staff,Cash loans,1,35,0,180000.0,0.1354,225000.0,24363.0,0.8
+500,Married,Lower secondary,n.a.,Cash loans,1,63,0,171000.0,0.0931,555273.0,15912.0,0.3079
+501,Married,Lower secondary,Laborers,Cash loans,0,30,1,135000.0,0.12476,358443.0,16839.0,0.3767
+502,Married,Secondary / secondary special,High skill tech staff,Cash loans,0,43,1,180000.0,0.1622,270000.0,29209.5,0.6665
+503,Married,Secondary / secondary special,Laborers,Cash loans,1,52,0,270000.0,0.0999,528318.0,26973.0,0.511
+504,Married,Higher education,n.a.,Cash loans,1,53,0,270000.0,0.11835,835380.0,31950.0,0.3232
+505,Married,Secondary / secondary special,n.a.,Cash loans,0,62,0,135000.0,0.3357,1546020.0,45328.5,0.08734
+506,Married,Secondary / secondary special,Drivers,Cash loans,0,45,0,360000.0,0.03638,343800.0,13090.5,1.047
+507,Single / not married,Secondary / secondary special,Accountants,Cash loans,1,52,1,139500.0,0.0736,269550.0,10264.5,0.5176
+508,Married,Secondary / secondary special,Laborers,Cash loans,0,33,0,126000.0,0.0861,284400.0,10849.5,0.443
+509,Widow,Secondary / secondary special,n.a.,Cash loans,1,61,0,85500.0,0.2568,515529.0,21969.0,0.1659
+510,Widow,Secondary / secondary special,Cleaning staff,Cash loans,1,49,0,90000.0,0.1302,117162.0,11718.0,0.768
+511,Single / not married,Higher education,Laborers,Cash loans,1,32,0,157500.0,0.127,679500.0,19998.0,0.2318
+512,Single / not married,Secondary / secondary special,n.a.,Cash loans,0,27,0,103500.0,0.2517,302076.0,26055.0,0.3425
+513,Married,Secondary / secondary special,n.a.,Cash loans,1,43,1,225000.0,0.229,478498.5,51534.0,0.4702
+514,Married,Secondary / secondary special,Cooking staff,Cash loans,1,37,0,90000.0,0.3123,263686.5,28107.0,0.3413
+515,Single / not married,Higher education,Sales staff,Cash loans,1,39,0,106398.0,0.093,360000.0,9900.0,0.2957
+516,Married,Secondary / secondary special,Realty agents,Cash loans,1,42,0,247500.0,0.1442,450000.0,35685.0,0.55
+517,Separated,Secondary / secondary special,Cooking staff,Cash loans,1,47,0,117000.0,0.2183,599778.0,25542.0,0.1951
+518,Separated,Secondary / secondary special,n.a.,Cash loans,1,51,0,135000.0,0.1766,734994.0,23841.0,0.1837
+519,Married,Higher education,Drivers,Cash loans,0,36,0,202500.0,0.2203,1125000.0,44617.5,0.18
+520,Married,Secondary / secondary special,Laborers,Cash loans,0,44,0,315000.0,0.128,835380.0,40320.0,0.377
+521,Married,Secondary / secondary special,Core staff,Cash loans,1,40,0,112500.0,0.4202,1237684.5,47272.5,0.0909
+522,Married,Secondary / secondary special,Laborers,Cash loans,1,37,0,157500.0,0.0935,284400.0,14724.0,0.5537
+523,Married,Secondary / secondary special,Security staff,Cash loans,0,54,0,144000.0,0.1974,442791.0,28426.5,0.3252
+524,Civil marriage,Higher education,n.a.,Cash loans,1,23,1,180000.0,0.11,278460.0,19800.0,0.6465
+525,Married,Higher education,Laborers,Cash loans,1,27,0,229500.0,0.3171,1006920.0,72778.5,0.2279
+526,Married,Secondary / secondary special,n.a.,Cash loans,0,55,0,225000.0,0.0856,593010.0,19260.0,0.3794
+527,Married,Secondary / secondary special,n.a.,Cash loans,1,56,1,184500.0,0.157,654498.0,28957.5,0.282
+528,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,25,0,180000.0,0.11,294322.5,19800.0,0.612
+529,Separated,Incomplete higher,Sales staff,Cash loans,1,36,0,292500.0,0.0904,900000.0,26446.5,0.325
+530,Married,Higher education,Sales staff,Cash loans,1,47,1,135000.0,0.12054,254700.0,16276.5,0.5303
+531,Married,Higher education,Laborers,Cash loans,1,39,1,157500.0,0.2391,1288350.0,37669.5,0.12225
+532,Single / not married,Incomplete higher,Core staff,Revolving loans,1,22,1,90000.0,0.1,180000.0,9000.0,0.5
+533,Single / not married,Secondary / secondary special,Security staff,Cash loans,1,50,0,180000.0,0.11035,675000.0,19867.5,0.2666
+534,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,36,1,225000.0,0.0981,203760.0,22072.5,1.1045
+535,Single / not married,Higher education,n.a.,Cash loans,1,30,1,99000.0,0.138,364896.0,13653.0,0.2712
+536,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,47,0,225000.0,0.22,1800000.0,49500.0,0.125
+537,Married,Secondary / secondary special,Core staff,Cash loans,0,49,0,450000.0,0.1159,1312110.0,52168.5,0.343
+538,Married,Secondary / secondary special,Core staff,Cash loans,1,48,0,207000.0,0.0785,380533.5,16249.5,0.544
+539,Married,Secondary / secondary special,n.a.,Cash loans,0,65,0,99000.0,0.2244,521280.0,22216.5,0.19
+540,Married,Higher education,Core staff,Cash loans,1,30,0,337500.0,0.1121,926136.0,37849.5,0.3645
+541,Married,Higher education,Laborers,Cash loans,1,41,0,162000.0,0.2883,874152.0,46701.0,0.1853
+542,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,42,1,121500.0,0.0697,225000.0,8469.0,0.54
+543,Married,Secondary / secondary special,Core staff,Cash loans,1,47,0,112500.0,0.07983,201024.0,8982.0,0.5596
+544,Single / not married,Higher education,Laborers,Cash loans,1,26,1,202500.0,0.0923,675000.0,18693.0,0.3
+545,Separated,Secondary / secondary special,n.a.,Cash loans,1,47,0,135000.0,0.1989,913500.0,26838.0,0.1478
+546,Married,Higher education,Managers,Cash loans,0,44,0,225000.0,0.3513,732915.0,79065.0,0.307
+547,Married,Secondary / secondary special,Drivers,Cash loans,0,36,0,247500.0,0.1018,414792.0,25195.5,0.5967
+548,Married,Higher education,Core staff,Cash loans,1,34,0,108000.0,0.135,157500.0,14575.5,0.6855
+549,Married,Secondary / secondary special,Laborers,Cash loans,1,33,0,157500.0,0.1214,238500.0,19120.5,0.66
+550,Separated,Higher education,High skill tech staff,Cash loans,1,57,0,211500.0,0.2361,1506816.0,49927.5,0.1404
+551,Married,Higher education,Core staff,Revolving loans,1,62,0,270000.0,0.1417,765000.0,38250.0,0.353
+552,Married,Secondary / secondary special,Laborers,Cash loans,0,36,0,135000.0,0.1493,203760.0,20151.0,0.6626
+553,Married,Secondary / secondary special,Sales staff,Cash loans,1,48,0,90000.0,0.1729,158301.0,15552.0,0.5684
+554,Married,Higher education,Managers,Cash loans,1,32,0,157500.0,0.1294,373311.0,20380.5,0.4219
+555,Civil marriage,Secondary / secondary special,Security staff,Cash loans,0,31,0,112500.0,0.18,254700.0,20250.0,0.4417
+556,Married,Incomplete higher,n.a.,Cash loans,1,59,0,157500.0,0.2988,1350000.0,47056.5,0.11664
+557,Separated,Higher education,n.a.,Cash loans,1,63,0,90000.0,0.3298,755190.0,29677.5,0.1192
+558,Married,Higher education,n.a.,Cash loans,1,34,0,76500.0,0.1705,119925.0,13045.5,0.6377
+559,Single / not married,Secondary / secondary special,Managers,Cash loans,0,33,1,247500.0,0.1288,900000.0,31887.0,0.275
+560,Married,Secondary / secondary special,Laborers,Cash loans,0,41,0,216000.0,0.1448,640080.0,31261.5,0.3374
+561,Married,Higher education,n.a.,Revolving loans,1,46,0,99000.0,0.125,247500.0,12375.0,0.4
+562,Civil marriage,Secondary / secondary special,Core staff,Cash loans,0,34,1,67500.0,0.1641,225000.0,11074.5,0.3
+563,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,31,1,180000.0,0.0744,284400.0,13387.5,0.633
+564,Single / not married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,45,1,135000.0,0.232,808650.0,31333.5,0.167
+565,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,35,1,157500.0,0.1307,634482.0,20596.5,0.2483
+566,Married,Secondary / secondary special,n.a.,Cash loans,1,60,0,130500.0,0.419,995562.0,54684.0,0.1311
+567,Separated,Secondary / secondary special,Laborers,Cash loans,1,33,0,247500.0,0.1565,755856.0,38722.5,0.3274
+568,Married,Higher education,n.a.,Cash loans,1,32,0,135000.0,0.1477,427500.0,19939.5,0.3157
+569,Married,Secondary / secondary special,Laborers,Revolving loans,0,54,0,112500.0,0.12,270000.0,13500.0,0.4167
+570,Married,Secondary / secondary special,n.a.,Cash loans,1,55,0,54000.0,0.2478,312768.0,13378.5,0.1726
+571,Married,Lower secondary,n.a.,Cash loans,1,52,1,135000.0,0.12115,414792.0,16357.5,0.3254
+572,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,24,1,189000.0,0.0619,215640.0,11695.5,0.8765
+573,Married,Secondary / secondary special,Core staff,Cash loans,1,51,0,90000.0,0.2179,603792.0,19606.5,0.149
+574,Civil marriage,Secondary / secondary special,Sales staff,Revolving loans,0,40,0,234000.0,0.05768,270000.0,13500.0,0.8667
+575,Married,Higher education,Managers,Cash loans,0,34,0,202500.0,0.1554,808650.0,31464.0,0.2505
+576,Married,Secondary / secondary special,Sales staff,Cash loans,1,46,0,67500.0,0.1174,152685.0,7924.5,0.4421
+577,Married,Secondary / secondary special,Medicine staff,Cash loans,1,47,0,112500.0,0.1525,254700.0,17149.5,0.4417
+578,Single / not married,Secondary / secondary special,Drivers,Cash loans,0,55,0,87750.0,0.1342,314100.0,11767.5,0.2793
+579,Married,Secondary / secondary special,Cooking staff,Revolving loans,1,21,0,112500.0,0.12,270000.0,13500.0,0.4167
+580,Single / not married,Secondary / secondary special,n.a.,Cash loans,0,29,0,135000.0,0.1469,422451.0,19822.5,0.3196
+581,Married,Secondary / secondary special,n.a.,Cash loans,0,55,0,45000.0,0.3723,168102.0,16753.5,0.2676
+582,Single / not married,Higher education,n.a.,Cash loans,1,40,1,144000.0,0.1116,364896.0,16069.5,0.3945
+583,Married,Secondary / secondary special,n.a.,Cash loans,0,62,1,81000.0,0.4507,670500.0,36504.0,0.1208
+584,Married,Incomplete higher,n.a.,Cash loans,1,54,0,112500.0,0.129,381528.0,14512.5,0.295
+585,Married,Lower secondary,Core staff,Cash loans,1,33,0,135000.0,0.3462,900000.0,46732.5,0.15
+586,Married,Secondary / secondary special,n.a.,Cash loans,0,57,0,112500.0,0.233,808650.0,26217.0,0.1392
+587,Single / not married,Higher education,IT staff,Cash loans,0,44,1,225000.0,0.111,942300.0,24984.0,0.2388
+588,Married,Higher education,Laborers,Cash loans,1,40,0,157500.0,0.2925,900000.0,46084.5,0.175
+589,Married,Secondary / secondary special,n.a.,Cash loans,0,61,0,202500.0,0.1631,1125000.0,33025.5,0.18
+590,Married,Secondary / secondary special,Laborers,Cash loans,0,51,1,121500.0,0.374,1223010.0,45454.5,0.09937
+591,Married,Higher education,High skill tech staff,Cash loans,1,29,0,184500.0,0.1709,1078200.0,31522.5,0.1711
+592,Married,Secondary / secondary special,n.a.,Cash loans,1,54,0,72000.0,0.2029,384048.0,14607.0,0.1875
+593,Married,Secondary / secondary special,Sales staff,Cash loans,1,46,0,90000.0,0.3018,254700.0,27153.0,0.3533
+594,Married,Secondary / secondary special,Sales staff,Cash loans,1,45,1,180000.0,0.1493,526491.0,26878.5,0.3418
+595,Married,Secondary / secondary special,Drivers,Cash loans,0,45,0,90000.0,0.146,279000.0,13135.5,0.3225
+596,Married,Secondary / secondary special,Drivers,Revolving loans,0,47,0,157500.0,0.0857,270000.0,13500.0,0.5835
+597,Married,Secondary / secondary special,Secretaries,Cash loans,0,55,1,225000.0,0.1289,991944.0,29002.5,0.2268
+598,Single / not married,Secondary / secondary special,Drivers,Cash loans,0,54,1,265500.0,0.08716,360000.0,23134.5,0.7373
+599,Married,Higher education,Core staff,Cash loans,1,35,1,135000.0,0.2993,1125000.0,40410.0,0.12
+600,Married,Secondary / secondary special,Security staff,Cash loans,0,33,0,243000.0,0.1666,631332.0,40477.5,0.385
+601,Married,Secondary / secondary special,Sales staff,Cash loans,1,35,0,135000.0,0.1002,167121.0,13527.0,0.8076
+602,Widow,Secondary / secondary special,n.a.,Cash loans,1,59,0,63000.0,0.3716,528633.0,23413.5,0.1192
+603,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,33,0,135000.0,0.1237,244998.0,16704.0,0.551
+604,Married,Secondary / secondary special,Laborers,Revolving loans,0,43,0,225000.0,0.13,585000.0,29250.0,0.3845
+605,Married,Incomplete higher,Medicine staff,Cash loans,1,23,0,81000.0,0.1334,90000.0,10809.0,0.9
+606,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,44,0,90000.0,0.2913,808650.0,26217.0,0.11127
+607,Married,Higher education,Laborers,Revolving loans,0,39,0,180000.0,0.125,450000.0,22500.0,0.4
+608,Married,Secondary / secondary special,n.a.,Cash loans,1,47,0,135000.0,0.2651,1219500.0,35788.5,0.1107
+609,Married,Lower secondary,Laborers,Cash loans,0,41,0,360000.0,0.06085,675000.0,21906.0,0.533
+610,Married,Higher education,n.a.,Cash loans,1,56,0,225000.0,0.0798,495985.5,17946.0,0.4536
+611,Single / not married,Secondary / secondary special,Managers,Cash loans,0,39,0,157500.0,0.1292,477000.0,20340.0,0.33
+612,Married,Higher education,Sales staff,Cash loans,1,47,1,157500.0,0.1998,526491.0,31482.0,0.299
+613,Married,Secondary / secondary special,n.a.,Cash loans,1,62,0,67500.0,0.2908,495000.0,19629.0,0.1364
+614,Married,Secondary / secondary special,n.a.,Cash loans,1,68,0,112500.0,0.1948,225000.0,21919.5,0.5
+615,Married,Higher education,Managers,Cash loans,1,48,1,90000.0,0.2471,760500.0,22234.5,0.11835
+616,Married,Secondary / secondary special,Laborers,Cash loans,0,47,0,90000.0,0.3562,490536.0,32067.0,0.1835
+617,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,61,0,180000.0,0.1263,533668.5,22738.5,0.3374
+618,Married,Higher education,n.a.,Cash loans,0,46,0,135000.0,0.2783,1160973.0,37579.5,0.1163
+619,Separated,Secondary / secondary special,Accountants,Cash loans,1,48,0,135000.0,0.2211,808650.0,29839.5,0.167
+620,Married,Secondary / secondary special,Core staff,Cash loans,0,23,0,157500.0,0.074,225000.0,11650.5,0.7
+621,Married,Higher education,Managers,Cash loans,0,31,0,180000.0,0.11755,439740.0,21154.5,0.4094
+622,Married,Higher education,Managers,Cash loans,0,41,1,540000.0,0.08044,1575000.0,43443.0,0.3428
+623,Married,Higher education,Accountants,Cash loans,1,35,0,180000.0,0.1785,755190.0,32125.5,0.2384
+624,Married,Secondary / secondary special,n.a.,Cash loans,1,59,0,99000.0,0.2212,548770.5,21892.5,0.1804
+625,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,52,0,126000.0,0.10754,337500.0,13549.5,0.3733
+626,Married,Secondary / secondary special,n.a.,Cash loans,1,32,1,135000.0,0.4463,761067.0,60259.5,0.1774
+627,Civil marriage,Secondary / secondary special,High skill tech staff,Cash loans,0,29,0,135000.0,0.1025,284400.0,13833.0,0.4746
+628,Married,Higher education,Laborers,Cash loans,1,44,0,234000.0,0.1125,360000.0,26325.0,0.65
+629,Married,Higher education,Medicine staff,Cash loans,1,33,0,292500.0,0.202,746280.0,59094.0,0.3918
+630,Civil marriage,Secondary / secondary special,Medicine staff,Cash loans,1,24,0,90000.0,0.1589,135000.0,14305.5,0.6665
+631,Married,Secondary / secondary special,n.a.,Cash loans,1,53,0,216000.0,0.11755,868500.0,25393.5,0.2487
+632,Married,Secondary / secondary special,n.a.,Cash loans,0,44,0,540000.0,0.04935,545040.0,26640.0,0.9907
+633,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,39,1,202500.0,0.0894,227520.0,18103.5,0.89
+634,Civil marriage,Incomplete higher,Core staff,Cash loans,1,40,0,112500.0,0.1467,312768.0,16506.0,0.3596
+635,Married,Higher education,n.a.,Cash loans,1,31,0,112500.0,0.4617,1223010.0,51948.0,0.092
+636,Married,Secondary / secondary special,Drivers,Cash loans,0,28,1,202500.0,0.08527,450000.0,17271.0,0.45
+637,Separated,Secondary / secondary special,Sales staff,Cash loans,1,46,0,112500.0,0.092,284400.0,10345.5,0.3955
+638,Civil marriage,Secondary / secondary special,Medicine staff,Cash loans,1,48,1,112500.0,0.1455,555273.0,16366.5,0.2026
+639,Married,Higher education,Accountants,Cash loans,1,46,0,315000.0,0.1969,1971072.0,62019.0,0.1598
+640,Married,Secondary / secondary special,n.a.,Revolving loans,1,37,0,112500.0,0.12,270000.0,13500.0,0.4167
+641,Married,Incomplete higher,Laborers,Cash loans,1,28,0,225000.0,0.09784,450000.0,22018.5,0.5
+642,Married,Incomplete higher,Core staff,Cash loans,1,39,1,157500.0,0.1332,450000.0,20979.0,0.35
+643,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,38,0,157500.0,0.3286,1218375.0,51750.0,0.1293
+644,Married,Secondary / secondary special,Medicine staff,Cash loans,1,39,0,292500.0,0.08765,720000.0,25636.5,0.4062
+645,Married,Secondary / secondary special,Laborers,Cash loans,0,56,1,112500.0,0.3096,1080000.0,34839.0,0.1042
+646,Separated,Secondary / secondary special,n.a.,Cash loans,1,66,0,112500.0,0.153,247275.0,17208.0,0.455
+647,Married,Secondary / secondary special,Laborers,Revolving loans,1,29,0,135000.0,0.06665,180000.0,9000.0,0.75
+648,Married,Higher education,Accountants,Revolving loans,1,29,0,216000.0,0.0781,337500.0,16875.0,0.64
+649,Single / not married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,23,0,90000.0,0.2126,284400.0,19134.0,0.3164
+650,Married,Secondary / secondary special,n.a.,Cash loans,1,55,0,108000.0,0.1606,390960.0,17352.0,0.2761
+651,Married,Secondary / secondary special,Laborers,Cash loans,1,54,0,38250.0,0.135,47970.0,5166.0,0.7974
+652,Married,Higher education,n.a.,Revolving loans,0,48,0,171000.0,0.1448,495000.0,24750.0,0.3455
+653,Married,Higher education,Sales staff,Cash loans,1,45,0,103500.0,0.1428,270000.0,14778.0,0.3833
+654,Married,Higher education,Sales staff,Cash loans,1,46,1,171000.0,0.11694,679500.0,19998.0,0.2517
+655,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,36,0,121500.0,0.1646,472500.0,19993.5,0.257
+656,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,29,0,90000.0,0.08246,107820.0,7420.5,0.835
+657,Married,Higher education,Core staff,Cash loans,1,53,0,202500.0,0.126,247675.5,25506.0,0.8174
+658,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,50,1,180000.0,0.1217,675000.0,21906.0,0.2666
+659,Single / not married,Higher education,Cleaning staff,Cash loans,1,36,0,157500.0,0.10803,448056.0,17019.0,0.3516
+660,Married,Incomplete higher,Drivers,Cash loans,0,44,1,202500.0,0.2476,938304.0,50121.0,0.2158
+661,Civil marriage,Higher education,Realty agents,Cash loans,1,31,1,225000.0,0.0657,225000.0,14778.0,1.0
+662,Married,Higher education,Managers,Revolving loans,0,29,0,135000.0,0.06665,180000.0,9000.0,0.75
+663,Married,Secondary / secondary special,Drivers,Cash loans,0,39,0,126000.0,0.07635,157050.0,9621.0,0.8022
+664,Civil marriage,Secondary / secondary special,Laborers,Cash loans,0,38,0,157500.0,0.1998,808650.0,31464.0,0.1948
+665,Married,Secondary / secondary special,Laborers,Cash loans,0,55,1,112500.0,0.0943,277969.5,10606.5,0.4048
+666,Married,Higher education,Managers,Cash loans,0,38,0,247500.0,0.2354,805500.0,58243.5,0.3074
+667,Married,Higher education,Managers,Cash loans,0,46,0,288000.0,0.2384,1971072.0,68643.0,0.1461
+668,Widow,Secondary / secondary special,n.a.,Cash loans,1,63,0,112500.0,0.2332,254700.0,26226.0,0.4417
+669,Married,Secondary / secondary special,Sales staff,Cash loans,1,52,0,90000.0,0.2493,675000.0,22437.0,0.1333
+670,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,22,1,112500.0,0.2006,351000.0,22558.5,0.3206
+671,Married,Higher education,Accountants,Cash loans,1,33,0,225000.0,0.2349,1096020.0,52857.0,0.2053
+672,Married,Secondary / secondary special,Drivers,Cash loans,0,50,0,202500.0,0.2546,1006920.0,51543.0,0.201
+673,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,56,0,135000.0,0.345,1125000.0,46557.0,0.12
+674,Married,Higher education,Core staff,Cash loans,1,28,1,112500.0,0.2742,679500.0,30834.0,0.1655
+675,Married,Higher education,Drivers,Cash loans,0,55,0,405000.0,0.1058,1327648.5,42826.5,0.305
+676,Married,Secondary / secondary special,Drivers,Cash loans,0,42,1,225000.0,0.1327,1017000.0,29866.5,0.2212
+677,Civil marriage,Secondary / secondary special,Laborers,Revolving loans,0,26,0,135000.0,0.06665,180000.0,9000.0,0.75
+678,Married,Secondary / secondary special,n.a.,Cash loans,1,60,0,54000.0,1.374,1885500.0,74191.5,0.02864
+679,Married,Secondary / secondary special,n.a.,Cash loans,1,58,1,67500.0,0.2678,293535.0,18085.5,0.23
+680,Married,Higher education,n.a.,Cash loans,1,45,1,270000.0,0.04385,265851.0,11839.5,1.016
+681,Separated,Higher education,Managers,Cash loans,0,45,1,270000.0,0.1056,675000.0,28507.5,0.4
+682,Married,Higher education,Core staff,Cash loans,1,27,1,112500.0,0.42,450000.0,47254.5,0.25
+683,Married,Secondary / secondary special,n.a.,Cash loans,1,44,0,112500.0,0.2203,813195.0,24786.0,0.1383
+684,Married,Secondary / secondary special,Laborers,Cash loans,0,25,1,157500.0,0.1738,339948.0,27387.0,0.4634
+685,Married,Higher education,Accountants,Cash loans,1,35,0,126000.0,0.2081,808650.0,26217.0,0.1558
+686,Widow,Secondary / secondary special,n.a.,Cash loans,1,58,0,49500.0,0.3718,431280.0,18400.5,0.11475
+687,Married,Secondary / secondary special,Managers,Cash loans,0,37,0,180000.0,0.1733,963000.0,31194.0,0.1869
+688,Widow,Secondary / secondary special,Cleaning staff,Cash loans,1,52,0,405000.0,0.08093,413235.0,32778.0,0.98
+689,Separated,Secondary / secondary special,Laborers,Cash loans,0,45,0,81000.0,0.392,454500.0,31761.0,0.1782
+690,Married,Secondary / secondary special,n.a.,Cash loans,1,58,0,103500.0,0.3784,886090.5,39159.0,0.1168
+691,Widow,Lower secondary,n.a.,Cash loans,1,58,0,126000.0,0.1842,698517.0,23215.5,0.1804
+692,Single / not married,Secondary / secondary special,Core staff,Cash loans,1,26,0,112500.0,0.2362,223884.0,26568.0,0.5024
+693,Widow,Secondary / secondary special,Sales staff,Cash loans,1,52,0,76500.0,0.2477,499261.5,18949.5,0.1532
+694,Civil marriage,Higher education,Sales staff,Cash loans,1,32,0,135000.0,0.243,679500.0,32818.5,0.1987
+695,Married,Incomplete higher,Laborers,Cash loans,1,33,0,157500.0,0.2053,407727.0,32341.5,0.3862
+696,Married,Higher education,Managers,Cash loans,0,32,1,270000.0,0.10724,1098000.0,28962.0,0.2458
+697,Married,Higher education,Core staff,Cash loans,1,49,0,247500.0,0.1054,654498.0,26086.5,0.3782
+698,Married,Secondary / secondary special,Laborers,Cash loans,0,38,0,180000.0,0.1812,675000.0,32602.5,0.2666
+699,Married,Secondary / secondary special,n.a.,Cash loans,1,27,0,135000.0,0.2316,640080.0,31261.5,0.2109
+700,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,51,0,112500.0,0.0907,95940.0,10201.5,1.173
+701,Married,Higher education,Managers,Revolving loans,0,34,0,540000.0,0.0833,900000.0,45000.0,0.6
+702,Married,Higher education,Managers,Cash loans,0,55,1,180000.0,0.2424,1649646.0,43645.5,0.10913
+703,Separated,Higher education,n.a.,Cash loans,1,37,0,270000.0,0.10474,274779.0,28287.0,0.9824
+704,Widow,Secondary / secondary special,n.a.,Cash loans,1,41,1,135000.0,0.162,635962.5,21865.5,0.2123
+705,Married,Secondary / secondary special,Core staff,Cash loans,1,59,0,126000.0,0.2197,942300.0,27679.5,0.1337
+706,Married,Higher education,n.a.,Cash loans,0,62,0,112500.0,0.11285,225000.0,12694.5,0.5
+707,Married,Secondary / secondary special,n.a.,Cash loans,1,61,0,157500.0,0.03143,88884.0,4950.0,1.771
+708,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,52,1,67500.0,0.1442,364032.0,9733.5,0.1854
+709,Married,Secondary / secondary special,Managers,Cash loans,0,32,0,225000.0,0.2048,900000.0,46084.5,0.25
+710,Married,Secondary / secondary special,n.a.,Cash loans,1,57,1,279000.0,0.1598,1520253.0,44581.5,0.1835
+711,Civil marriage,Secondary / secondary special,Drivers,Cash loans,0,49,0,157500.0,0.1665,808650.0,26217.0,0.1948
+712,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,59,1,180000.0,0.2244,1468719.0,40387.5,0.12256
+713,Married,Higher education,n.a.,Cash loans,0,31,0,225000.0,0.2172,616923.0,48870.0,0.3647
+714,Married,Secondary / secondary special,Sales staff,Revolving loans,1,44,0,112500.0,0.12,270000.0,13500.0,0.4167
+715,Married,Secondary / secondary special,n.a.,Cash loans,1,58,0,225000.0,0.119,500211.0,26779.5,0.4497
+716,Single / not married,Higher education,Accountants,Cash loans,1,23,1,117000.0,0.152,225000.0,17775.0,0.52
+717,Married,Secondary / secondary special,n.a.,Cash loans,1,29,0,153000.0,0.313,450000.0,47880.0,0.34
+718,Married,Secondary / secondary special,n.a.,Cash loans,1,57,1,90000.0,0.1633,253737.0,14697.0,0.3547
+719,Married,Higher education,Laborers,Cash loans,1,28,0,67500.0,0.4944,497520.0,33376.5,0.1356
+720,Married,Secondary / secondary special,Core staff,Cash loans,1,41,0,90000.0,0.08093,131922.0,7285.5,0.682
+721,Civil marriage,Secondary / secondary special,Medicine staff,Cash loans,1,40,0,121500.0,0.1683,723996.0,20448.0,0.1678
+722,Married,Incomplete higher,n.a.,Cash loans,0,44,0,202500.0,0.1923,485640.0,38938.5,0.417
+723,Single / not married,Higher education,Laborers,Cash loans,0,53,0,337500.0,0.06128,267102.0,20686.5,1.264
+724,Married,Secondary / secondary special,Core staff,Revolving loans,1,27,0,45000.0,0.15,135000.0,6750.0,0.3333
+725,Married,Secondary / secondary special,Core staff,Cash loans,1,43,1,81000.0,0.1537,229500.0,12447.0,0.353
+726,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,45,1,180000.0,0.1631,824823.0,29353.5,0.2183
+727,Married,Secondary / secondary special,Core staff,Cash loans,0,40,0,135000.0,0.2255,450000.0,30442.5,0.3
+728,Civil marriage,Higher education,Core staff,Cash loans,1,23,1,225000.0,0.1382,835380.0,31086.0,0.2693
+729,Married,Secondary / secondary special,n.a.,Cash loans,0,31,0,247500.0,0.1866,1087474.5,46206.0,0.2275
+730,Married,Secondary / secondary special,Core staff,Cash loans,1,52,1,117000.0,0.2695,1078200.0,31522.5,0.1085
+731,Separated,Secondary / secondary special,Laborers,Cash loans,0,31,0,180000.0,0.193,942300.0,34749.0,0.191
+732,Separated,Secondary / secondary special,n.a.,Cash loans,0,27,0,67500.0,0.315,439074.0,21253.5,0.1537
+733,Widow,Secondary / secondary special,n.a.,Cash loans,1,64,1,58500.0,0.5044,888840.0,29506.5,0.0658
+734,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,34,0,112500.0,0.0831,90000.0,9351.0,1.25
+735,Married,Secondary / secondary special,High skill tech staff,Cash loans,0,40,0,157500.0,0.2166,531706.5,34110.0,0.2961
+736,Separated,Secondary / secondary special,Cooking staff,Cash loans,1,58,0,225000.0,0.1337,755190.0,30078.0,0.2979
+737,Married,Secondary / secondary special,n.a.,Cash loans,0,38,1,342000.0,0.05225,585000.0,17865.0,0.5845
+738,Married,Secondary / secondary special,Drivers,Revolving loans,0,48,0,67500.0,0.1333,180000.0,9000.0,0.375
+739,Married,Secondary / secondary special,Managers,Cash loans,0,54,0,157500.0,0.4036,1190340.0,63549.0,0.1323
+740,Married,Secondary / secondary special,Cooking staff,Cash loans,1,36,0,117000.0,0.1438,276277.5,16825.5,0.4236
+741,Civil marriage,Secondary / secondary special,Low-skill Laborers,Cash loans,0,34,1,202500.0,0.1923,485640.0,38938.5,0.417
+742,Married,Higher education,Drivers,Cash loans,0,46,1,270000.0,0.1456,770292.0,39330.0,0.3506
+743,Single / not married,Secondary / secondary special,High skill tech staff,Cash loans,1,46,0,112500.0,0.171,364896.0,19233.0,0.3083
+744,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,64,0,49500.0,0.3047,153504.0,15084.0,0.3225
+745,Married,Secondary / secondary special,Drivers,Cash loans,0,40,0,270000.0,0.2161,1467612.0,58333.5,0.184
+746,Married,Secondary / secondary special,Core staff,Cash loans,1,38,0,270000.0,0.1635,1225224.0,44140.5,0.2203
+747,Married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,28,0,180000.0,0.3132,711747.0,56362.5,0.253
+748,Married,Secondary / secondary special,Private service staff,Cash loans,0,38,1,306000.0,0.2368,2085120.0,72477.0,0.1467
+749,Married,Secondary / secondary special,High skill tech staff,Cash loans,0,31,0,180000.0,0.284,957033.0,51120.0,0.1881
+750,Widow,Secondary / secondary special,n.a.,Cash loans,1,64,0,135000.0,0.1059,253737.0,14296.5,0.532
+751,Single / not married,Incomplete higher,High skill tech staff,Cash loans,1,25,0,135000.0,0.2053,573628.5,27724.5,0.2354
+752,Married,Higher education,Medicine staff,Cash loans,1,37,0,112500.0,0.2172,573628.5,24435.0,0.1962
+753,Separated,Higher education,HR staff,Cash loans,1,42,0,225000.0,0.1404,398016.0,31576.5,0.5654
+754,Widow,Higher education,n.a.,Cash loans,1,67,0,180000.0,0.1305,239850.0,23494.5,0.7505
+755,Separated,Secondary / secondary special,High skill tech staff,Cash loans,1,52,1,112500.0,0.2429,450000.0,27324.0,0.25
+756,Separated,Secondary / secondary special,High skill tech staff,Cash loans,1,45,1,90000.0,0.1666,242950.5,14994.0,0.3704
+757,Married,Secondary / secondary special,Core staff,Cash loans,1,51,0,90000.0,0.1278,203760.0,11506.5,0.4417
+758,Single / not married,Secondary / secondary special,Sales staff,Cash loans,0,21,0,90288.0,0.1841,405000.0,16623.0,0.2229
+759,Single / not married,Higher education,Accountants,Cash loans,1,54,0,360000.0,0.1213,1030500.0,43659.0,0.3494
+760,Married,Higher education,n.a.,Cash loans,1,59,0,225000.0,0.2659,582768.0,59845.5,0.386
+761,Married,Secondary / secondary special,Laborers,Cash loans,1,28,0,126000.0,0.213,260640.0,26838.0,0.4834
+762,Married,Higher education,High skill tech staff,Cash loans,1,36,0,139500.0,0.1709,317178.0,23845.5,0.4397
+763,Widow,Secondary / secondary special,Laborers,Cash loans,1,46,0,90000.0,0.1292,238896.0,11619.0,0.3767
+764,Married,Secondary / secondary special,Laborers,Cash loans,1,46,0,247500.0,0.1436,835380.0,35523.0,0.2964
+765,Married,Higher education,Sales staff,Cash loans,1,51,0,450000.0,0.1059,1323000.0,47650.5,0.34
+766,Married,Lower secondary,n.a.,Cash loans,1,62,1,67500.0,0.2203,143910.0,14872.5,0.469
+767,Single / not married,Secondary / secondary special,n.a.,Revolving loans,0,21,1,243000.0,0.03705,180000.0,9000.0,1.35
+768,Separated,Secondary / secondary special,n.a.,Cash loans,1,40,0,213750.0,0.1827,765000.0,39060.0,0.2793
+769,Married,Secondary / secondary special,Sales staff,Cash loans,1,24,1,112500.0,0.1042,117162.0,11718.0,0.9604
+770,Separated,Secondary / secondary special,High skill tech staff,Cash loans,1,30,0,157500.0,0.136,327024.0,21420.0,0.4817
+771,Single / not married,Secondary / secondary special,Medicine staff,Cash loans,1,33,1,157500.0,0.128,557770.5,20164.5,0.2825
+772,Single / not married,Higher education,n.a.,Cash loans,1,41,0,315000.0,0.09424,697500.0,29682.0,0.4517
+773,Widow,Secondary / secondary special,n.a.,Cash loans,1,67,0,67500.0,0.1362,157914.0,9193.5,0.4275
+774,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,51,1,135000.0,0.1959,900000.0,26446.5,0.15
+775,Married,Higher education,HR staff,Revolving loans,1,33,0,450000.0,0.095,855000.0,42750.0,0.5264
+776,Single / not married,Secondary / secondary special,Medicine staff,Cash loans,1,55,0,157500.0,0.1403,553806.0,22090.5,0.2844
+777,Married,Secondary / secondary special,n.a.,Cash loans,1,59,1,67500.0,0.3005,203760.0,20281.5,0.3313
+778,Married,Secondary / secondary special,n.a.,Cash loans,0,50,0,315000.0,0.0937,312682.5,29515.5,1.008
+779,Married,Higher education,Core staff,Cash loans,1,44,0,90000.0,0.761,701730.0,68490.0,0.1283
+780,Married,Higher education,Core staff,Cash loans,1,32,1,214650.0,0.1971,1442952.0,42318.0,0.1488
+781,Married,Higher education,High skill tech staff,Cash loans,1,43,1,135000.0,0.2664,675000.0,35964.0,0.2
+782,Married,Secondary / secondary special,Laborers,Cash loans,1,38,1,112500.0,0.3943,1006920.0,44352.0,0.11176
+783,Single / not married,Secondary / secondary special,n.a.,Cash loans,0,22,0,135000.0,0.2979,550980.0,40221.0,0.245
+784,Married,Secondary / secondary special,n.a.,Cash loans,1,61,0,112500.0,0.2717,497520.0,30568.5,0.2261
+785,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,38,1,67500.0,0.1066,225000.0,7195.5,0.3
+786,Married,Higher education,n.a.,Cash loans,1,47,0,67500.0,0.1191,103855.5,8037.0,0.65
+787,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,42,0,81000.0,0.0936,76500.0,7582.5,1.059
+788,Widow,Secondary / secondary special,n.a.,Cash loans,1,59,0,117000.0,0.28,770292.0,32764.5,0.1519
+789,Married,Secondary / secondary special,Medicine staff,Cash loans,1,47,0,135000.0,0.1631,574785.0,22023.0,0.2349
+790,Married,Secondary / secondary special,Sales staff,Cash loans,1,48,0,45000.0,0.435,348264.0,19575.0,0.1293
+791,Single / not married,Secondary / secondary special,Core staff,Revolving loans,1,36,0,252000.0,0.0357,180000.0,9000.0,1.4
+792,Married,Secondary / secondary special,Laborers,Cash loans,1,41,1,337500.0,0.0709,814041.0,23931.0,0.4146
+793,Married,Secondary / secondary special,n.a.,Cash loans,1,44,1,81000.0,0.2961,490536.0,23989.5,0.1652
+794,Civil marriage,Secondary / secondary special,Cooking staff,Cash loans,1,48,0,225000.0,0.1254,781920.0,28215.0,0.2878
+795,Separated,Secondary / secondary special,n.a.,Cash loans,1,55,0,135000.0,0.1932,229500.0,26086.5,0.5884
+796,Single / not married,Higher education,Core staff,Revolving loans,0,23,1,360000.0,0.0375,270000.0,13500.0,1.333
+797,Married,Higher education,Waiters/barmen staff,Cash loans,0,28,0,225000.0,0.0723,254700.0,16276.5,0.8833
+798,Married,Higher education,Core staff,Cash loans,0,60,0,337500.0,0.07837,900000.0,26446.5,0.375
+799,Married,Secondary / secondary special,Managers,Cash loans,1,28,0,63000.0,0.294,284400.0,18513.0,0.2216
+800,Civil marriage,Higher education,Core staff,Cash loans,1,27,0,180000.0,0.1097,403330.5,19746.0,0.4463
+801,Married,Secondary / secondary special,Sales staff,Cash loans,1,41,0,108000.0,0.2803,760225.5,30280.5,0.1421
+802,Married,Secondary / secondary special,n.a.,Cash loans,1,63,1,48600.0,0.3313,229500.0,16101.0,0.2118
+803,Married,Secondary / secondary special,Drivers,Cash loans,0,37,0,112500.0,0.2175,832500.0,24471.0,0.1351
+804,Married,Secondary / secondary special,Medicine staff,Cash loans,1,46,1,112500.0,0.2156,675000.0,24246.0,0.1666
+805,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,59,0,90000.0,0.1858,238500.0,16726.5,0.3774
+806,Married,Secondary / secondary special,Cleaning staff,Cash loans,1,33,0,270000.0,0.1122,284256.0,30289.5,0.9497
+807,Married,Secondary / secondary special,Drivers,Cash loans,0,40,0,202500.0,0.2585,1317357.0,52375.5,0.1537
+808,Married,Secondary / secondary special,Core staff,Cash loans,1,32,1,99000.0,0.3806,1288350.0,37669.5,0.07684
+809,Separated,Secondary / secondary special,Laborers,Cash loans,1,41,1,90000.0,0.1786,364896.0,16069.5,0.2467
+810,Married,Secondary / secondary special,Sales staff,Cash loans,1,46,0,135000.0,0.4358,1350000.0,58828.5,0.1
+811,Married,Higher education,Accountants,Cash loans,0,39,0,112500.0,0.0855,95940.0,9616.5,1.173
+812,Married,Secondary / secondary special,Core staff,Cash loans,1,43,0,81000.0,0.3088,517500.0,25024.5,0.1565
+813,Married,Higher education,Laborers,Cash loans,1,40,0,135000.0,0.2688,607050.0,36279.0,0.2224
+814,Civil marriage,Secondary / secondary special,Laborers,Cash loans,1,49,0,202500.0,0.10205,675000.0,20668.5,0.3
+815,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,39,0,112500.0,0.08264,162000.0,9297.0,0.6943
+816,Civil marriage,Higher education,High skill tech staff,Revolving loans,1,31,0,135000.0,0.06665,180000.0,9000.0,0.75
+817,Married,Higher education,High skill tech staff,Cash loans,0,33,0,225000.0,0.12195,644427.0,27432.0,0.349
+818,Widow,Secondary / secondary special,n.a.,Cash loans,1,60,0,76500.0,0.2183,390960.0,16695.0,0.1957
+819,Married,Secondary / secondary special,Drivers,Cash loans,0,40,0,270000.0,0.08154,450000.0,22018.5,0.6
+820,Married,Secondary / secondary special,n.a.,Cash loans,0,63,1,112500.0,0.12384,178213.5,13932.0,0.6313
+821,Married,Higher education,Medicine staff,Cash loans,1,45,1,67500.0,0.2937,673875.0,19831.5,0.10016
+822,Married,Secondary / secondary special,Core staff,Cash loans,1,52,1,54000.0,0.1957,101880.0,10566.0,0.5303
+823,Married,Secondary / secondary special,n.a.,Cash loans,1,52,0,180000.0,0.1539,508495.5,27715.5,0.354
+824,Married,Higher education,Core staff,Cash loans,1,41,0,261000.0,0.09906,503676.0,25848.0,0.518
+825,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,44,1,135000.0,0.11096,189621.0,14980.5,0.712
+826,Married,Secondary / secondary special,Managers,Cash loans,0,32,1,189000.0,0.2372,1054935.0,44824.5,0.1792
+827,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,40,0,202500.0,0.1929,1210500.0,39046.5,0.1672
+828,Separated,Secondary / secondary special,n.a.,Cash loans,0,63,1,112500.0,0.233,808650.0,26217.0,0.1392
+829,Married,Secondary / secondary special,Core staff,Cash loans,0,26,0,153000.0,0.1357,380533.5,20772.0,0.402
+830,Married,Secondary / secondary special,n.a.,Cash loans,0,48,0,112500.0,0.1471,337500.0,16546.5,0.3333
+831,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,37,0,315000.0,0.1401,657886.5,44140.5,0.4788
+832,Single / not married,Higher education,n.a.,Cash loans,1,30,1,157500.0,0.082,225000.0,12915.0,0.7
+833,Civil marriage,Secondary / secondary special,Low-skill Laborers,Cash loans,0,25,0,112500.0,0.1573,224136.0,17707.5,0.502
+834,Single / not married,Higher education,IT staff,Revolving loans,1,54,0,382500.0,0.0765,585000.0,29250.0,0.654
+835,Single / not married,Lower secondary,n.a.,Cash loans,1,61,0,112500.0,0.08936,101880.0,10053.0,1.1045
+836,Civil marriage,Secondary / secondary special,Core staff,Cash loans,1,46,0,157500.0,0.2091,587623.5,32940.0,0.268
+837,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,27,0,315000.0,0.1644,927571.5,51795.0,0.3396
+838,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,45,0,135000.0,0.1685,533668.5,22738.5,0.253
+839,Married,Higher education,n.a.,Cash loans,1,40,0,90000.0,0.1371,225000.0,12334.5,0.4
+840,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,39,0,135000.0,0.1197,343800.0,16155.0,0.3926
+841,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,32,0,81000.0,0.1411,360000.0,11434.5,0.225
+842,Civil marriage,Secondary / secondary special,High skill tech staff,Cash loans,1,28,1,135000.0,0.1937,787131.0,26145.0,0.1715
+843,Married,Secondary / secondary special,n.a.,Cash loans,1,56,0,112500.0,0.2401,1002456.0,27009.0,0.11224
+844,Married,Higher education,n.a.,Cash loans,1,35,0,112500.0,0.1426,327024.0,16033.5,0.344
+845,Single / not married,Secondary / secondary special,Cooking staff,Cash loans,1,36,0,63000.0,0.07733,47970.0,4873.5,1.313
+846,Civil marriage,Secondary / secondary special,Drivers,Cash loans,0,50,0,283500.0,0.11896,1149210.0,33732.0,0.2467
+847,Married,Secondary / secondary special,Sales staff,Cash loans,1,30,0,90000.0,0.338,1035832.5,30415.5,0.0869
+848,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,23,0,216000.0,0.1809,485640.0,39069.0,0.4448
+849,Civil marriage,Secondary / secondary special,Accountants,Cash loans,1,30,1,180000.0,0.1874,948582.0,33736.5,0.1897
+850,Married,Secondary / secondary special,n.a.,Cash loans,1,48,0,202500.0,0.1832,1264428.0,37098.0,0.1602
+851,Married,Secondary / secondary special,Security staff,Cash loans,1,48,0,202500.0,0.1407,970380.0,28503.0,0.2087
+852,Widow,Higher education,n.a.,Cash loans,1,68,1,135000.0,0.1614,219042.0,21793.5,0.616
+853,Married,Secondary / secondary special,Accountants,Revolving loans,1,43,0,157500.0,0.0714,225000.0,11250.0,0.7
+854,Married,Secondary / secondary special,Sales staff,Cash loans,1,30,0,126000.0,0.2339,1008117.0,29475.0,0.125
+855,Married,Secondary / secondary special,n.a.,Cash loans,1,56,0,90000.0,0.2925,900000.0,26316.0,0.1
+856,Married,Secondary / secondary special,Sales staff,Cash loans,1,49,1,67500.0,0.319,508495.5,21541.5,0.1327
+857,Married,Secondary / secondary special,Sales staff,Revolving loans,1,49,0,157500.0,0.1428,450000.0,22500.0,0.35
+858,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,30,0,81000.0,0.10925,81000.0,8851.5,1.0
+859,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,58,1,67500.0,0.2041,312768.0,13774.5,0.2158
+860,Married,Secondary / secondary special,Drivers,Cash loans,0,47,0,225000.0,0.278,1574532.0,62572.5,0.143
+861,Married,Secondary / secondary special,Drivers,Cash loans,0,47,0,180000.0,0.1665,640080.0,29970.0,0.2812
+862,Single / not married,Higher education,High skill tech staff,Cash loans,0,23,0,180000.0,0.2157,1350000.0,38821.5,0.1333
+863,Single / not married,Secondary / secondary special,Sales staff,Cash loans,1,32,0,112500.0,0.1389,143910.0,15628.5,0.7817
+864,Married,Secondary / secondary special,Drivers,Cash loans,0,39,0,157500.0,0.1609,862560.0,25348.5,0.1826
+865,Civil marriage,Secondary / secondary special,Security staff,Cash loans,0,40,0,117000.0,0.1727,474048.0,20214.0,0.2468
+866,Married,Secondary / secondary special,Laborers,Cash loans,0,34,1,135000.0,0.09924,203760.0,13396.5,0.6626
+867,Married,Secondary / secondary special,Laborers,Cash loans,1,39,0,67500.0,0.3333,765000.0,22495.5,0.08826
+868,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,54,1,112500.0,0.2612,888840.0,29376.0,0.1266
+869,Single / not married,Higher education,Cooking staff,Cash loans,1,54,1,157500.0,0.2087,450000.0,32877.0,0.35
+870,Married,Higher education,Sales staff,Cash loans,1,32,1,94500.0,0.2769,675000.0,26154.0,0.14
+871,Single / not married,Higher education,High skill tech staff,Cash loans,0,27,1,450000.0,0.1803,2125953.0,81108.0,0.2117
+872,Married,Secondary / secondary special,Core staff,Cash loans,0,31,0,157500.0,0.205,592560.0,32274.0,0.2659
+873,Married,Secondary / secondary special,Sales staff,Cash loans,1,33,1,157500.0,0.3137,1024740.0,49428.0,0.1537
+874,Married,Secondary / secondary special,Managers,Cash loans,0,39,0,247500.0,0.1735,407745.0,42943.5,0.607
+875,Married,Secondary / secondary special,Laborers,Cash loans,1,41,0,112500.0,0.753,1215000.0,84694.5,0.0926
+876,Single / not married,Secondary / secondary special,n.a.,Revolving loans,1,62,1,180000.0,0.15,540000.0,27000.0,0.3333
+877,Separated,Higher education,Private service staff,Cash loans,1,41,1,202500.0,0.2008,728460.0,40675.5,0.278
+878,Single / not married,Incomplete higher,Sales staff,Cash loans,1,38,0,90000.0,0.2798,239850.0,25186.5,0.3752
+879,Married,Secondary / secondary special,n.a.,Cash loans,1,30,1,67500.0,0.2634,381528.0,17784.0,0.1769
+880,Married,Secondary / secondary special,n.a.,Cash loans,1,53,0,112500.0,0.2339,900000.0,26316.0,0.125
+881,Married,Secondary / secondary special,Sales staff,Cash loans,1,47,1,112500.0,0.3428,755190.0,38556.0,0.1489
+882,Married,Higher education,Laborers,Cash loans,0,38,0,202500.0,0.12384,518562.0,25078.5,0.3906
+883,Married,Secondary / secondary special,Laborers,Cash loans,1,38,1,225000.0,0.1895,1002870.0,42619.5,0.2244
+884,Married,Secondary / secondary special,Sales staff,Cash loans,1,50,0,121500.0,0.3,755190.0,36459.0,0.1609
+885,Civil marriage,Secondary / secondary special,Managers,Cash loans,0,61,0,315000.0,0.1436,1546020.0,45202.5,0.2037
+886,Married,Secondary / secondary special,n.a.,Revolving loans,1,58,0,135000.0,0.05,135000.0,6750.0,1.0
+887,Married,Higher education,Managers,Cash loans,0,44,0,238500.0,0.1161,834048.0,27693.0,0.286
+888,Married,Secondary / secondary special,Medicine staff,Cash loans,1,58,0,382500.0,0.05502,720000.0,21051.0,0.5312
+889,Widow,Secondary / secondary special,n.a.,Cash loans,1,60,0,112500.0,0.2898,675000.0,32602.5,0.1666
+890,Married,Secondary / secondary special,Laborers,Cash loans,0,57,0,180000.0,0.1737,640080.0,31261.5,0.2812
+891,Married,Secondary / secondary special,Laborers,Cash loans,0,49,0,135000.0,0.1974,545040.0,26640.0,0.2477
+892,Married,Higher education,n.a.,Cash loans,1,37,0,112500.0,0.2316,886500.0,26050.5,0.127
+893,Married,Higher education,n.a.,Revolving loans,0,56,0,315000.0,0.1071,675000.0,33750.0,0.4666
+894,Married,Higher education,Core staff,Cash loans,1,43,0,67500.0,0.3918,900000.0,26446.5,0.075
+895,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,58,0,195750.0,0.1593,704844.0,31176.0,0.2778
+896,Widow,Secondary / secondary special,Sales staff,Cash loans,1,58,0,99000.0,0.3083,942300.0,30528.0,0.10504
+897,Married,Incomplete higher,Laborers,Cash loans,1,31,0,112500.0,0.4678,664299.0,52614.0,0.1693
+898,Separated,Secondary / secondary special,n.a.,Cash loans,1,59,1,67500.0,0.0948,90000.0,6399.0,0.75
+899,Single / not married,Secondary / secondary special,Security staff,Cash loans,0,30,0,225000.0,0.10754,474048.0,24201.0,0.4746
+900,Widow,Secondary / secondary special,n.a.,Cash loans,1,61,1,247500.0,0.1547,747000.0,38268.0,0.3313
+901,Married,Secondary / secondary special,Laborers,Cash loans,0,52,0,180000.0,0.1923,675000.0,34596.0,0.2666
+902,Married,Higher education,Accountants,Cash loans,1,46,0,315000.0,0.1769,1024740.0,55719.0,0.3074
+903,Married,Secondary / secondary special,n.a.,Cash loans,0,63,0,157500.0,0.1787,635962.5,28143.0,0.2477
+904,Married,Higher education,Sales staff,Cash loans,1,41,0,81000.0,0.2834,521280.0,22959.0,0.1554
+905,Widow,Secondary / secondary special,n.a.,Cash loans,1,55,0,94500.0,0.0643,74182.5,6075.0,1.273
+906,Married,Secondary / secondary special,Laborers,Cash loans,1,41,0,157500.0,0.2046,1097676.0,32224.5,0.1434
+907,Civil marriage,Secondary / secondary special,Low-skill Laborers,Revolving loans,1,43,1,67500.0,0.1333,180000.0,9000.0,0.375
+908,Married,Secondary / secondary special,Laborers,Revolving loans,1,43,0,112500.0,0.15,337500.0,16875.0,0.3333
+909,Single / not married,Higher education,Secretaries,Cash loans,1,37,0,94500.0,0.1464,284400.0,13833.0,0.3323
+910,Married,Secondary / secondary special,Managers,Cash loans,0,45,1,202500.0,0.1348,1029681.0,27292.5,0.1967
+911,Married,Secondary / secondary special,Drivers,Cash loans,0,29,0,99000.0,0.1262,104256.0,12501.0,0.9497
+912,Married,Secondary / secondary special,n.a.,Cash loans,1,53,0,157500.0,0.2208,1185282.0,34785.0,0.1329
+913,Single / not married,Higher education,Sales staff,Revolving loans,1,21,0,135000.0,0.06665,180000.0,9000.0,0.75
+914,Married,Secondary / secondary special,Sales staff,Cash loans,1,30,1,135000.0,0.12054,254700.0,16276.5,0.5303
+915,Married,Secondary / secondary special,n.a.,Cash loans,1,50,0,112500.0,0.1577,454500.0,17739.0,0.2476
+916,Married,Secondary / secondary special,n.a.,Cash loans,1,41,1,90000.0,0.294,900000.0,26446.5,0.1
+917,Married,Higher education,High skill tech staff,Cash loans,0,33,0,225000.0,0.207,454500.0,46570.5,0.495
+918,Married,Higher education,n.a.,Cash loans,0,38,1,270000.0,0.1674,1546020.0,45202.5,0.1747
+919,Married,Secondary / secondary special,Laborers,Cash loans,1,48,0,162000.0,0.0988,284400.0,16011.0,0.57
+920,Single / not married,Secondary / secondary special,High skill tech staff,Cash loans,1,41,0,135000.0,0.1614,206271.0,21789.0,0.6543
+921,Civil marriage,Secondary / secondary special,n.a.,Cash loans,0,38,1,202500.0,0.191,755190.0,38686.5,0.268
+922,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,53,1,121500.0,0.1161,370629.0,14103.0,0.328
+923,Married,Higher education,Core staff,Cash loans,1,24,1,112500.0,0.1838,405000.0,20677.5,0.2778
+924,Married,Higher education,Sales staff,Cash loans,1,33,0,225000.0,0.2128,450000.0,47880.0,0.5
+925,Married,Secondary / secondary special,Laborers,Cash loans,1,39,0,67500.0,0.531,900000.0,35824.5,0.075
+926,Married,Secondary / secondary special,Sales staff,Cash loans,0,51,0,225000.0,0.2032,679500.0,45724.5,0.331
+927,Married,Higher education,Drivers,Cash loans,0,55,0,157500.0,0.2097,1125000.0,33025.5,0.14
+928,Civil marriage,Secondary / secondary special,Core staff,Cash loans,0,41,0,135000.0,0.1488,414792.0,20083.5,0.3254
+929,Single / not married,Higher education,Core staff,Cash loans,1,48,0,180000.0,0.1742,945000.0,31360.5,0.1904
+930,Married,Secondary / secondary special,Managers,Cash loans,1,38,1,540000.0,0.0827,485640.0,44671.5,1.112
+931,Single / not married,Secondary / secondary special,Drivers,Cash loans,0,43,0,173250.0,0.2263,765261.0,39204.0,0.2264
+932,Single / not married,Secondary / secondary special,Cooking staff,Cash loans,1,44,0,121500.0,0.307,533668.5,37273.5,0.2277
+933,Widow,Secondary / secondary special,n.a.,Cash loans,1,43,0,126000.0,0.2043,324216.0,25744.5,0.3887
+934,Married,Higher education,Drivers,Cash loans,0,44,0,202500.0,0.2279,720000.0,46143.0,0.2812
+935,Married,Secondary / secondary special,n.a.,Cash loans,1,37,1,90000.0,0.118,225000.0,10620.0,0.4
+936,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,24,1,90000.0,0.1835,207396.0,16515.0,0.4338
+937,Married,Secondary / secondary special,Laborers,Cash loans,0,57,0,117000.0,0.2664,1061599.5,31171.5,0.1102
+938,Married,Secondary / secondary special,Core staff,Cash loans,1,39,0,270000.0,0.0987,545040.0,26640.0,0.4954
+939,Married,Higher education,n.a.,Cash loans,1,28,1,117000.0,0.1793,450000.0,20979.0,0.26
+940,Married,Secondary / secondary special,Laborers,Cash loans,0,29,0,157500.0,0.184,531706.5,28975.5,0.2961
+941,Married,Secondary / secondary special,Medicine staff,Cash loans,1,36,0,182250.0,0.264,900000.0,48082.5,0.2025
+942,Single / not married,Secondary / secondary special,Drivers,Cash loans,0,23,1,135000.0,0.1708,225000.0,23053.5,0.6
+943,Married,Secondary / secondary special,n.a.,Cash loans,1,48,1,166500.0,0.08636,225000.0,14377.5,0.74
+944,Widow,Secondary / secondary special,Medicine staff,Cash loans,1,53,1,157500.0,0.1002,562500.0,15786.0,0.28
+945,Married,Secondary / secondary special,n.a.,Cash loans,0,55,1,157500.0,0.3323,1024740.0,52321.5,0.1537
+946,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,24,0,166500.0,0.1043,152820.0,17370.0,1.09
+947,Widow,Secondary / secondary special,Sales staff,Cash loans,1,64,0,112500.0,0.213,819432.0,23958.0,0.1373
+948,Single / not married,Secondary / secondary special,High skill tech staff,Cash loans,1,58,1,67500.0,0.2937,450000.0,19822.5,0.15
+949,Single / not married,Secondary / secondary special,Laborers,Cash loans,0,24,0,112500.0,0.3142,550980.0,35343.0,0.2042
+950,Civil marriage,Higher education,Sales staff,Cash loans,1,30,1,180000.0,0.331,1096020.0,59589.0,0.1642
+951,Single / not married,Higher education,Core staff,Cash loans,1,29,1,135000.0,0.1266,315000.0,17086.5,0.4285
+952,Married,Secondary / secondary special,Drivers,Revolving loans,0,53,0,247500.0,0.05453,270000.0,13500.0,0.9165
+953,Married,Higher education,Accountants,Cash loans,1,36,0,90000.0,0.3118,500211.0,28062.0,0.1799
+954,Married,Incomplete higher,n.a.,Cash loans,1,32,1,193500.0,0.286,715095.0,55341.0,0.2705
+955,Civil marriage,Secondary / secondary special,n.a.,Cash loans,1,62,0,124200.0,0.1921,538704.0,23859.0,0.2306
+956,Civil marriage,Secondary / secondary special,Sales staff,Cash loans,1,28,0,112500.0,0.08154,157500.0,9171.0,0.7144
+957,Married,Secondary / secondary special,Low-skill Laborers,Cash loans,0,53,0,157500.0,0.2683,824242.5,42273.0,0.191
+958,Single / not married,Higher education,Managers,Cash loans,0,30,0,180000.0,0.1223,450000.0,22018.5,0.4
+959,Married,Secondary / secondary special,Drivers,Cash loans,0,36,1,135000.0,0.2795,781920.0,37746.0,0.1726
+960,Married,Higher education,n.a.,Cash loans,1,37,1,135000.0,0.237,755190.0,31995.0,0.1787
+961,Married,Secondary / secondary special,Accountants,Cash loans,1,27,0,225000.0,0.1946,854896.5,43780.5,0.2632
+962,Married,Secondary / secondary special,Accountants,Cash loans,1,42,0,202500.0,0.05728,247500.0,11596.5,0.8184
+963,Separated,Higher education,High skill tech staff,Cash loans,1,50,0,400500.0,0.11475,1125000.0,45949.5,0.356
+964,Single / not married,Higher education,n.a.,Cash loans,1,33,0,360000.0,0.058,754740.0,20884.5,0.477
+965,Married,Secondary / secondary special,n.a.,Cash loans,0,27,0,202500.0,0.0721,266652.0,14593.5,0.7593
+966,Married,Secondary / secondary special,Medicine staff,Cash loans,1,39,0,135000.0,0.1278,352044.0,17253.0,0.3835
+967,Widow,Secondary / secondary special,n.a.,Cash loans,1,51,1,144000.0,0.2278,585000.0,32796.0,0.2461
+968,Married,Higher education,Laborers,Cash loans,0,27,0,202500.0,0.1687,350581.5,34150.5,0.5776
+969,Widow,Secondary / secondary special,Laborers,Revolving loans,0,41,0,225000.0,0.06,270000.0,13500.0,0.8335
+970,Married,Secondary / secondary special,Laborers,Cash loans,0,42,0,180000.0,0.1129,436032.0,20326.5,0.4128
+971,Civil marriage,Higher education,Core staff,Cash loans,1,33,1,90000.0,0.303,640458.0,27265.5,0.1405
+972,Married,Secondary / secondary special,n.a.,Cash loans,1,55,0,54000.0,0.1504,188685.0,8122.5,0.2861
+973,Married,Secondary / secondary special,n.a.,Cash loans,1,59,1,103500.0,0.3625,848745.0,37516.5,0.12195
+974,Married,Secondary / secondary special,Laborers,Cash loans,0,45,1,211500.0,0.2148,835380.0,45445.5,0.2532
+975,Single / not married,Secondary / secondary special,n.a.,Cash loans,1,63,0,207000.0,0.1809,1006920.0,37444.5,0.2056
+976,Married,Higher education,n.a.,Cash loans,1,66,0,67500.0,0.1598,203760.0,10782.0,0.3313
+977,Separated,Secondary / secondary special,Laborers,Cash loans,0,38,0,112500.0,0.08685,350676.0,9774.0,0.3208
+978,Separated,Secondary / secondary special,Sales staff,Revolving loans,1,35,0,157500.0,0.04285,135000.0,6750.0,1.167
+979,Married,Secondary / secondary special,n.a.,Cash loans,1,65,0,90000.0,0.1779,284400.0,16011.0,0.3164
+980,Married,Secondary / secondary special,Managers,Cash loans,1,41,1,135000.0,0.1711,450000.0,23107.5,0.3
+981,Married,Secondary / secondary special,Medicine staff,Cash loans,1,29,0,135000.0,0.1619,299772.0,21852.0,0.4504
+982,Single / not married,Secondary / secondary special,n.a.,Cash loans,0,24,0,123300.0,0.2089,497520.0,25758.0,0.2478
+983,Single / not married,Secondary / secondary special,Laborers,Cash loans,1,56,0,202500.0,0.1198,640080.0,24259.5,0.3164
+984,Civil marriage,Higher education,Secretaries,Cash loans,1,32,0,112500.0,0.1766,679500.0,19867.5,0.1655
+985,Married,Secondary / secondary special,Core staff,Cash loans,1,45,1,139500.0,0.0774,135000.0,10795.5,1.033
+986,Married,Secondary / secondary special,Laborers,Cash loans,1,30,0,135000.0,0.1266,312768.0,17095.5,0.4316
+987,Married,Secondary / secondary special,High skill tech staff,Cash loans,1,28,0,112500.0,0.3804,1006920.0,42790.5,0.11176
+988,Married,Secondary / secondary special,n.a.,Cash loans,1,49,1,90000.0,0.317,263686.5,28525.5,0.3413
+989,Married,Secondary / secondary special,Core staff,Cash loans,0,36,1,315000.0,0.1135,840951.0,35761.5,0.3745
+990,Married,Secondary / secondary special,n.a.,Cash loans,0,61,0,38700.0,0.3938,143910.0,15241.5,0.2688
+991,Married,Secondary / secondary special,Drivers,Cash loans,0,33,0,315000.0,0.1086,1165500.0,34209.0,0.2703
+992,Civil marriage,Higher education,n.a.,Cash loans,1,37,1,135000.0,0.1918,490536.0,25888.5,0.2751
+993,Married,Secondary / secondary special,n.a.,Cash loans,0,55,0,112500.0,0.2957,835380.0,33259.5,0.1346
+994,Married,Secondary / secondary special,Laborers,Cash loans,1,48,1,90000.0,0.3594,760225.5,32337.0,0.1184
+995,Widow,Secondary / secondary special,n.a.,Cash loans,1,58,1,112500.0,0.1595,495985.5,17946.0,0.2268
+996,Single / not married,Secondary / secondary special,Cleaning staff,Cash loans,1,38,0,225000.0,0.2534,1113840.0,57001.5,0.202
+997,Married,Secondary / secondary special,n.a.,Cash loans,1,57,0,144000.0,0.1959,517536.0,28206.0,0.2783
+998,Married,Higher education,Managers,Cash loans,0,44,0,315000.0,0.12,1288350.0,37800.0,0.2445
+999,Married,Secondary / secondary special,Drivers,Cash loans,0,48,0,180000.0,0.1504,679500.0,27076.5,0.265
