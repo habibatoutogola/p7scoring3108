@@ -19,8 +19,8 @@ df.drop(columns='TARGET', inplace=True)
 grid_lgbm = pickle.load( open( 'lgbm_GridCV.p', 'rb' ) )
 
 #liste client
-num_client=df.SK_ID_CURR.unique()
-list_client_id=list(num_client.astype(str))
+#num_client=df.SK_ID_CURR.unique()
+#list_client_id=list(num_client.astype(str))
 
 # Solvabilité client sous forme de pie
 
