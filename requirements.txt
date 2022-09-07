@@ -8,7 +8,6 @@ imbalanced-learn
 lightgbm
 gunicorn
 flask
-app
 uvicorn
 Flask
 plotly
