@@ -16,7 +16,6 @@ with open('lgbm_GridCV.p', 'rb') as f2:
     grid_lgbm = pickle.load(f2)
 
 df = pd.read_csv('data_scoring_ech.csv', index_col=0)
-df.drop(columns='TARGET', inplace=True)
 num_client = df.SK_ID_CURR.unique()
 
 
