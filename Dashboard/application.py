@@ -28,7 +28,7 @@ def client(df, df_client):
     st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #  Appel de l'API
-    url = "https://haby-p7-app.herokuapp.com/"   #"lien heroku"
+    url = "https://p7api.herokuapp.com/"   #"lien heroku"
 
     explainer_shap = -0.4203389942575416
 
