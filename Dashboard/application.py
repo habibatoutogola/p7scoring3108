@@ -24,7 +24,7 @@ grid_lgbm = pickle.load( open( 'lgbm_GridCV.p', 'rb' ) )
 
 # Solvabilité client sous forme de pie
 
-def client(df, df_client):
+#def client(df, df_client):
     st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #  Appel de l'API
