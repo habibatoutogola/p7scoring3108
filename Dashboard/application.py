@@ -77,8 +77,8 @@ st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
 id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 
-row_df_sk =  (df['SK_ID_CURR'] == id_client))
-row_appli_sk = ( df_client['SK_ID_CURR'] == id_client))
+row_df_sk =  (df['SK_ID_CURR'] == id_client)
+row_appli_sk = ( df_client['SK_ID_CURR'] == id_client)
 
 st.subheader("Client Information")
 sex = df_client.loc[row_appli_sk, ['CODE_GENDER']].values[0][0]
