@@ -77,8 +77,8 @@ st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
 id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 
-row_df_sk =  [df['SK_ID_CURR'] == id_client]
-row_appli_sk = [ df_client['SK_ID_CURR'] == id_client]
+row_appli_sk =  [df['SK_ID_CURR'] == id_client]
+#row_appli_sk = [ df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
 sex = df_client.loc[row_appli_sk, ['CODE_GENDER']].values[0][0]
 st.write("Sex :",sex)
@@ -94,7 +94,7 @@ Own_realty = df_client.loc[row_appli_sk, ['FLAG_OWN_REALTY']].values[0][0]
 st.write("Client owns a house or flat :", Own_realty)
 income = str(df_client.loc[row_appli_sk, ['AMT_INCOME_TOTAL']].values[0][0])
 st.write("Income of the client :", income)
-income_perc = df_client.loc[row_df_sk, ['ANNUITY_INCOME_PERC']].values[0][0]
+income_perc = df_client.loc[row_appli_sk, ['ANNUITY_INCOME_PERC']].values[0][0]
 st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
 
 st.subheader("Credit Information")
@@ -104,7 +104,7 @@ credit = str(df_client.loc[row_appli_sk, ['AMT_CREDIT']].values[0][0])
 st.write("Credit amount of the loan :", credit)
 annuity = df_client.loc[row_appli_sk, ['AMT_ANNUITY']].values[0][0] / 12
 st.write(f"Loan monthly : {annuity:.1f}")
-income_credit_perc = df_client.loc[row_df_sk, ['INCOME_CREDIT_PERC']].values[0][0]
+income_credit_perc = df_client.loc[row_appli_sk, ['INCOME_CREDIT_PERC']].values[0][0]
 st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
 
 
