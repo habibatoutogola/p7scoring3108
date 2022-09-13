@@ -28,18 +28,18 @@ grid_lgbm = pickle.load( open( 'lgbm_GridCV.p', 'rb' ) )
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #  Appel de l'API
-    url = "https://p7api.herokuapp.com/"   #"lien heroku"
+url = "https://p7api.herokuapp.com/"   #"lien heroku"
 
-    explainer_shap = -0.4203389942575416
+    #explainer_shap = -0.4203389942575416
 
-    url_requests = url+"predict/"
-    response = requests.get(url_requests)
-    if response:
-        list_client_id = response.json()['list_client_id']
-        list_client_id = sorted(list_client_id)
-    else:
-        list_client_id = ['000000']
-        print("erreur web : ", response)
+url_requests = url+"predict/"
+response = requests.get(url_requests)
+if response:
+     list_client_id = response.json()['list_client_id']
+     list_client_id = sorted(list_client_id)
+else:
+     list_client_id = ['000000']
+     print("erreur web : ", response)
 def update_sk(sk_id):
         predict_proba_1=0.5
         if sk_id in list_client_id:
