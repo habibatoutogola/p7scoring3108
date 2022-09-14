@@ -73,11 +73,12 @@ def update_sk(sk_id):
 st.title('Dashboard Scoring Credit')
 st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
-id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
+id_client = option_sk
 
 # Information relative à un client 
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
-row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
+#row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
+row_appli_sk=df_client.head(3)
 st.table(row_appli_sk)
 
 # Information relative à un client 
