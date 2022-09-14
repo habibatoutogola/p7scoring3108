@@ -77,7 +77,7 @@ id_client = option_sk[0]
 
 # Information relative à un client 
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
-row_appli_sk = df_client.loc[id_client]
+row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.table(row_appli_sk)
 
 # Information relative à un client 
