@@ -12,3 +12,4 @@ uvicorn
 Flask
 plotly
 shap
+ipython
