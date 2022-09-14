@@ -79,7 +79,7 @@ id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values)
+st.write("Sex :", row_appli_sk['CODE_GENDER'].iloc[0])
 st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values , "ans.")
 st.write("Family status :", row_appli_sk['NAME_FAMILY_STATUS'].values, "$")
 st.write("Education type :", row_appli_sk['NAME_EDUCATION_TYPE'].values, "$")
@@ -87,7 +87,7 @@ st.write("Occupation type :", row_appli_sk['OCCUPATION_TYPE'].values, "$")
 st.write("Client owns a house or flat :", row_appli_sk['FLAG_OWN_REALTY'].values, "$")
 st.write("Income of the client :", row_appli_sk['AMT_INCOME_TOTAL'].values, "$")
 income_perc =row_df_sk['ANNUITY_INCOME_PERC'].values
-st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
+#st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
 st.write("Sex :", row_appli_sk['CODE_GENDER'].values, "$")
 st.write("Sex :", row_appli_sk['CODE_GENDER'].values, "$")
 st.write("Sex :", row_appli_sk['CODE_GENDER'].values, "$")
