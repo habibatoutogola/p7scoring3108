@@ -76,10 +76,6 @@ option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
 id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 
 # Information relative à un client 
-
-option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
-id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
-
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
