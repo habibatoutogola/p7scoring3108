@@ -72,8 +72,8 @@ def update_sk(sk_id):
 #affichage formulaire
 st.title('Dashboard Scoring Credit')
 st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
-option_sk = st.selectbox('Selectionner un numero de client',list_client_id.index)
-id_client = option_sk
+option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
+id_client = option_sk[0]
 
 # Information relative à un client 
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
@@ -84,7 +84,7 @@ st.table(row_appli_sk)
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0][0])
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0])
 st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values , "ans.")
 st.write("Family status :", row_appli_sk['NAME_FAMILY_STATUS'].values, "$")
 st.write("Education type :", row_appli_sk['NAME_EDUCATION_TYPE'].values, "$")
