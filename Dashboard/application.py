@@ -78,6 +78,11 @@ id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 # Information relative à un client 
 row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
+st.table(row_appli_sk)
+
+# Information relative à un client 
+row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
+row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
 st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0][0])
 st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values , "ans.")
