@@ -127,16 +127,16 @@ st.plotly_chart(fig)
 
 #Feature importance / description
 st.subheader("Feature importance")                           
-            shap.initjs()   
-            X=df[df['SK_ID_CURR']==id_client]
-            X.drop(columns=['SK_ID_CURR'],inplace=True)
+shap.initjs()   
+X=df[df['SK_ID_CURR']==id_client]
+X.drop(columns=['SK_ID_CURR'],inplace=True)
             
-            fig, ax = plt.subplots(figsize=(10, 10))
-            explainer = shap.TreeExplainer(grid_lgbm)
-            shap_values = explainer.shap_values(X)
-            shap.summary_plot(shap_values, features=X, plot_type ="bar", max_display=10, color_bar=False, plot_size=(10, 10))            
-            #shap.bar_plot(shap_values[0],feature_names=np.array(feats),max_display=10)            
-            st.pyplot(fig)    
+fig, ax = plt.subplots(figsize=(10, 10))
+explainer = shap.TreeExplainer(grid_lgbm)
+shap_values = explainer.shap_values(X)
+shap.summary_plot(shap_values, features=X, plot_type ="bar", max_display=10, color_bar=False, plot_size=(10, 10))            
+#shap.bar_plot(shap_values[0],feature_names=np.array(feats),max_display=10)            
+st.pyplot(fig)              
 
 st.subheader("Client similaires")
 
