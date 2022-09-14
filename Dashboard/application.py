@@ -4,6 +4,7 @@ import seaborn as sns
 from lightgbm import LGBMClassifier
 import requests
 import pickle
+import shap
 import plotly.graph_objects as go
 import streamlit as st
 import matplotlib.pyplot as plt
@@ -77,8 +78,8 @@ st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
 id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 
-row_df_sk =  [df['SK_ID_CURR'] == id_client]
-row_appli_sk = [ df_client['SK_ID_CURR'] == id_client]
+row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
+row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
 sex = df_client.loc[row_appli_sk, ['CODE_GENDER']].values[0][0]
 st.write("Sex :",sex)
@@ -107,7 +108,7 @@ st.write(f"Loan monthly : {annuity:.1f}")
 income_credit_perc = df_client.loc[row_appli_sk, ['INCOME_CREDIT_PERC']].values[0][0]
 st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
 
-
+#affichage de la prédiction
 st.subheader("Retour Prediction")
 st.write("""
     **le retour est un score de 0 à 100. Le seuil de refus est à 50.**
@@ -124,16 +125,18 @@ st.write("""
 fig = update_sk(id_client)
 st.plotly_chart(fig)
 
-st.subheader("Feature importance")
-
- #Feature importance / description
-original_title = '<p style="font-size: 20px;text-align: center;"> <u>Quelles sont les informations les plus importantes dans la prédiction ?</u> </p>'
-st.markdown(original_title, unsafe_allow_html=True)
-feature_imp = pd.DataFrame(sorted(zip(grid_lgbm.booster_.feature_importance(importance_type='gain'), df.columns)), columns=['Value','Feature'])
-fig, ax = plt.subplots(figsize=(10, 5))
-sns.barplot(x="Value", y="Feature", data=feature_imp.sort_values(by="Value", ascending=False).head(5))
-ax.set(title='Importance des informations', xlabel='', ylabel='')
-st.pyplot(fig)
+#Feature importance / description
+st.subheader("Feature importance")                           
+            shap.initjs()   
+            X=df[df['SK_ID_CURR']==id_client]
+            X.drop(columns=['SK_ID_CURR'],inplace=True)
+            
+            fig, ax = plt.subplots(figsize=(10, 10))
+            explainer = shap.TreeExplainer(grid_lgbm)
+            shap_values = explainer.shap_values(X)
+            shap.summary_plot(shap_values, features=X, plot_type ="bar", max_display=10, color_bar=False, plot_size=(10, 10))            
+            #shap.bar_plot(shap_values[0],feature_names=np.array(feats),max_display=10)            
+            st.pyplot(fig)    
 
 st.subheader("Client similaires")
 
