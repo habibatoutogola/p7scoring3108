@@ -11,3 +11,4 @@ flask
 uvicorn
 Flask
 plotly
+shap
