@@ -73,34 +73,6 @@ def update_sk(sk_id):
 st.title('Dashboard Scoring Credit')
 st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
     
-# Information relative à un client 
-
-option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
-id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
-
-row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
-row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
-st.subheader("Client Information")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0][0])
-st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values[0] , "ans.")
-st.write("Family status :", row_appli_sk['NAME_FAMILY_STATUS'].values[0], "$")
-st.write("Education type :", row_appli_sk['NAME_EDUCATION_TYPE'].values[0], "$")
-st.write("Occupation type :", row_appli_sk['OCCUPATION_TYPE'].values[0], "$")
-st.write("Client owns a house or flat :", row_appli_sk['FLAG_OWN_REALTY'].values[0], "$")
-st.write("Income of the client :", row_appli_sk['AMT_INCOME_TOTAL'].values[0], "$")
-income_perc =row_df_sk['ANNUITY_INCOME_PERC'].values[0]
-st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
-
-st.subheader("Credit Information")
-st.write("Contract type :", row_appli_sk['Contract type'].values[0], "$")
-st.write("Credit amount of the loan :", row_appli_sk['AMT_CREDIT'].values[0], "$")
-annuity =row_appli_sk['AMT_ANNUITY'].values[0] / 12
-st.write(f"Loan monthly : {annuity:.1f}")
-income_credit_perc =row_df_sk['INCOME_CREDIT_PERC'].values[0]
-st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
 
 #affichage de la prédiction
 st.subheader("Retour Prediction")
@@ -144,3 +116,33 @@ affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 st.dataframe(affiche_voisin)
+
+
+# Information relative à un client 
+
+option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
+id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
+
+row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
+row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
+st.subheader("Client Information")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0][0])
+st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values[0] , "ans.")
+st.write("Family status :", row_appli_sk['NAME_FAMILY_STATUS'].values[0], "$")
+st.write("Education type :", row_appli_sk['NAME_EDUCATION_TYPE'].values[0], "$")
+st.write("Occupation type :", row_appli_sk['OCCUPATION_TYPE'].values[0], "$")
+st.write("Client owns a house or flat :", row_appli_sk['FLAG_OWN_REALTY'].values[0], "$")
+st.write("Income of the client :", row_appli_sk['AMT_INCOME_TOTAL'].values[0], "$")
+income_perc =row_df_sk['ANNUITY_INCOME_PERC'].values[0]
+st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
+
+st.subheader("Credit Information")
+st.write("Contract type :", row_appli_sk['Contract type'].values[0], "$")
+st.write("Credit amount of the loan :", row_appli_sk['AMT_CREDIT'].values[0], "$")
+annuity =row_appli_sk['AMT_ANNUITY'].values[0] / 12
+st.write(f"Loan monthly : {annuity:.1f}")
+income_credit_perc =row_df_sk['INCOME_CREDIT_PERC'].values[0]
+st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
