@@ -72,7 +72,8 @@ def update_sk(sk_id):
 #affichage formulaire
 st.title('Dashboard Scoring Credit')
 st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
-    
+option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
+id_client = st.text_input("Veuillez entrer l'Identifiant d'un client")
 
 #affichage de la prédiction
 st.subheader("Retour Prediction")
