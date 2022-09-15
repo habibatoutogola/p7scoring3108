@@ -138,7 +138,7 @@ shap.summary_plot(shap_values, features=X, plot_type ="bar", max_display=10, col
 #shap.bar_plot(shap_values[0],feature_names=np.array(feats),max_display=10)            
 st.pyplot(fig)    
 
-st.subheader("Client similaires")
+st.subheader("Clients similaires")
 
 nearest_neighbors = df_client[['SK_ID_CURR','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER', 'AMT_CREDIT',
                               'INCOME_CREDIT_PERC','DAYS_BIRTH']]
