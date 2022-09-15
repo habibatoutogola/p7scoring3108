@@ -88,8 +88,8 @@ row_df_sk =  df[df.SK_ID_CURR == int(id_client)]
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == int(id_client)]
 
 st.subheader("Client Information")
-st.write("**Sex :**", row_df_sk['CODE_GENDER'].values[0])
-st.write("**Age client :**", row_df_sk["DAYS_BIRTH"].values[0] , "ans")
+st.write("**Sex :**", row_appli_sk['CODE_GENDER'].values[0])
+st.write("**Age client :**", row_appli_sk["DAYS_BIRTH"].values[0] , "ans")
 st.write("**Family status :**", row_appli_sk['NAME_FAMILY_STATUS'].values[0])
 st.write("**Education type :**", row_appli_sk['NAME_EDUCATION_TYPE'].values[0])
 st.write("**Occupation type :**", row_appli_sk['OCCUPATION_TYPE'].values[0])
