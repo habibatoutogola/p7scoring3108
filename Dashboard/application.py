@@ -76,6 +76,10 @@ st.markdown("***")
 st.write("""Cette application prédit la probabilité qu'un client de la banque "Prêt à dépenser" ne rembourse pas son prêt.
 """)
 
+seuil= 0.6
+original_title = '<p style="font-family:Courier; color:Blue; font-size: 18px;">La probabilité maximale de défaut de remboursement autorisée par la banque est de : {}</p>'.format(seuil)
+st.markdown(original_title, unsafe_allow_html=True)
+
 #st.title('Dashboard Scoring Credit')
 #st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
