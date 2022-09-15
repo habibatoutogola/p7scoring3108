@@ -14,7 +14,7 @@ from sklearn.cluster import KMeans
 df = pd.read_csv('data_scoring_ech.csv', index_col=0)
 df_client= pd.read_csv('df_client.csv',index_col=0)
 df_TARGET = df.TARGET.copy()
-df.drop(columns='TARGET', inplace=True)
+#df.drop(columns='TARGET', inplace=True)
 
 #chargement du modéle
 grid_lgbm = pickle.load( open( 'lgbm_GridCV.p', 'rb' ) )
@@ -120,9 +120,9 @@ st.plotly_chart(fig)
 
 #Feature importance / description
 st.subheader("Feature importance")                           
-shap.initjs()   
+shap.initjs()  
 X=df[df['SK_ID_CURR']==int(id_client)]
-X.TARGET=df_TAREGT
+#X.TARGET=df_TAREGT
             
 fig, ax = plt.subplots(figsize=(10, 10))
 explainer = shap.TreeExplainer(grid_lgbm)
