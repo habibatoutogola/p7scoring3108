@@ -78,24 +78,21 @@ id_client = option_sk
 # Information relative à un client 
 row_df_sk =  df[df.SK_ID_CURR == int(id_client)] 
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == int(id_client)]
-st.table(row_appli_sk)
+#st.table(row_appli_sk)
 
-# Information relative à un client 
-row_df_sk =  df[df['SK_ID_CURR'] == id_client] 
-row_appli_sk = df_client[df_client['SK_ID_CURR'] == id_client]
 st.subheader("Client Information")
 st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0])
-st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values , "ans.")
-st.write("Family status :", row_appli_sk['NAME_FAMILY_STATUS'].values, "$")
-st.write("Education type :", row_appli_sk['NAME_EDUCATION_TYPE'].values, "$")
-st.write("Occupation type :", row_appli_sk['OCCUPATION_TYPE'].values, "$")
-st.write("Client owns a house or flat :", row_appli_sk['FLAG_OWN_REALTY'].values, "$")
-st.write("Income of the client :", row_appli_sk['AMT_INCOME_TOTAL'].values, "$")
+st.write("Age client :", row_appli_sk["DAYS_BIRTH"].values[0] , "ans.")
+st.write("Family status :", row_appli_sk['NAME_FAMILY_STATUS'].values[0], "$")
+st.write("Education type :", row_appli_sk['NAME_EDUCATION_TYPE'].values[0], "$")
+st.write("Occupation type :", row_appli_sk['OCCUPATION_TYPE'].values[0], "$")
+st.write("Client owns a house or flat :", row_appli_sk['FLAG_OWN_REALTY'].values[0], "$")
+st.write("Income of the client :", row_appli_sk['AMT_INCOME_TOTAL'].values[0], "$")
 income_perc =row_df_sk['ANNUITY_INCOME_PERC'].values
 #st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values, "$")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values, "$")
-st.write("Sex :", row_appli_sk['CODE_GENDER'].values, "$")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
+st.write("Sex :", row_appli_sk['CODE_GENDER'].values[0], "$")
 
 st.subheader("Credit Information")
 #st.write("Contract type :", row_appli_sk['Contract type'].values[0], "$")
