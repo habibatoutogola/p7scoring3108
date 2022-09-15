@@ -151,8 +151,8 @@ affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Wo
 affiche_voisin.head()
 voisin_similaire=affiche_voisin[affiche_voisin['class']==row_client['class'].values[0]]
 st.write(voisin_similaire)
- for i in range(5):
+ #for i in range(5):
     #voisin=print(nearest_neighbors.iloc[k.index[i]])
-    voisin=pd.dataframe(affiche_voisins[affiche_voisin.index == int(k.index[i])])
- return voisin
-st.write(voisin_similaire(row_client.class.values[0]))
+    #voisin=pd.dataframe(affiche_voisins[affiche_voisin.index == int(k.index[i])])
+# return voisin
+#st.write(voisin_similaire(row_client.class.values[0]))
