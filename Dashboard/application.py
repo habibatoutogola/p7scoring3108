@@ -150,9 +150,9 @@ affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 
-def voisin_similaire:
+def voisin_similaire(k):
 for i in range(5):
     #voisin=print(nearest_neighbors.iloc[k.index[i]])
     voisin=pd.dataframe(affiche_voisins[affiche_voisin.index == int(k.index[i])])
  return voisin
-st.write(voisin)
+st.write(voisin_similaire(row_client.class.values[0])
