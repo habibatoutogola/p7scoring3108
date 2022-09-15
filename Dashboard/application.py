@@ -70,8 +70,14 @@ def update_sk(sk_id):
         return gauge_predict
     
 #affichage formulaire
-st.title('Dashboard Scoring Credit')
-st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
+original_title = '<p style="font-family:Courier; color:Red; font-size: 50px;text-align: center;">Accord prêt bancaire</p>'
+st.markdown(original_title, unsafe_allow_html=True)
+st.markdown("***")
+st.write("""Cette application prédit la probabilité qu'un client de la banque "Prêt à dépenser" ne rembourse pas son prêt.
+""")
+
+#st.title('Dashboard Scoring Credit')
+#st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
 id_client = option_sk
 
