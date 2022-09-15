@@ -80,19 +80,16 @@ seuil= 0.6
 original_title = '<p style="font-family:Courier; color:Blue; font-size: 18px;">La probabilité maximale de défaut de remboursement autorisée par la banque est de : {}</p>'.format(seuil)
 st.markdown(original_title, unsafe_allow_html=True)
 
-#st.title('Dashboard Scoring Credit')
-#st.markdown("Prédictions de scoring client, notre seuil de choix est de 40 %")
 option_sk = st.selectbox('Selectionner un numero de client',list_client_id)
 id_client = option_sk
 
 # Information relative à un client 
 row_df_sk =  df[df.SK_ID_CURR == int(id_client)] 
 row_appli_sk = df_client[df_client['SK_ID_CURR'] == int(id_client)]
-#st.table(row_appli_sk)
 
 st.subheader("Client Information")
 st.write("**Sex :**", row_df_sk['CODE_GENDER'].values[0])
-st.write("**Age client :**", row_appli_sk["DAYS_BIRTH"].values[0] , "ans.")
+st.write("**Age client :**", row_df_sk["DAYS_BIRTH"].values[0] , "ans")
 st.write("**Family status :**", row_appli_sk['NAME_FAMILY_STATUS'].values[0])
 st.write("**Education type :**", row_appli_sk['NAME_EDUCATION_TYPE'].values[0])
 st.write("**Occupation type :**", row_appli_sk['OCCUPATION_TYPE'].values[0])
@@ -139,7 +136,7 @@ explainer = shap.TreeExplainer(grid_lgbm)
 shap_values = explainer.shap_values(X)
 shap.summary_plot(shap_values, features=X, plot_type ="bar", max_display=10, color_bar=False, plot_size=(10, 10))            
 #shap.bar_plot(shap_values[0],feature_names=np.array(feats),max_display=10)            
-st.pyplot(fig)              
+st.pyplot(fig)    
 
 st.subheader("Client similaires")
 
