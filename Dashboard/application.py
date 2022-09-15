@@ -140,11 +140,10 @@ knn = KMeans(random_state=42,n_clusters=5) #5 plus proche voisins
 knn.fit(nearest_neighbors)
 # Creation de nouvelle feature
 nearest_neighbors['class']=knn.labels_
-st.write("nearest_neighbors[nearest_neighbors.index == int(id_client)]")
-cls = nearest_neighbors[nearest_neighbors.index == int(id_client)]['class']
-#class du client selectionné
-cls.values[0]
+row_client=nearest_neighbors[nearest_neighbors.index == int(id_client)])
+st.table(row_client)
 #5 client de la même classe par hazard
+cls = nearest_neighbors[nearest_neighbors.index == int(id_client)]['class']
 k = nearest_neighbors['class'][nearest_neighbors['class'] == cls.values[0]].sample(5)
 affiche_voisin = nearest_neighbors[['DAYS_BIRTH', 'AMT_CREDIT','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER','INCOME_CREDIT_PERC']]
 affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
