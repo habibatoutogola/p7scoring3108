@@ -96,7 +96,7 @@ st.subheader("Credit Information")
 st.write("**Contract type :**", row_appli_sk['NAME_CONTRACT_TYPE'].values[0])
 st.write("**Credit amount of the loan :**", row_appli_sk['AMT_CREDIT'].values[0])
 #annuity =row_appli_sk['AMT_ANNUITY'].values[0] / 12
-st.write("**Loan monthly : {:.1f}**".format(row_appli_sk['AMT_ANNUITY'].values[0] / 12")
+st.write("**Loan monthly : {:.1f}**".format(row_appli_sk['AMT_ANNUITY'].values[0]/12")
 st.write("**Income of the client / Credit amount of the loan : {:.2f}**".format(row_df_sk['INCOME_CREDIT_PERC'].values[0]*100), "%")
 #income_credit_perc =row_df_sk['INCOME_CREDIT_PERC'].values[0]
 #st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
@@ -121,7 +121,7 @@ st.plotly_chart(fig)
 #Feature importance / description
 st.subheader("Feature importance")                           
 shap.initjs()   
-X=df[df['SK_ID_CURR']==id_client]
+X=df[df['SK_ID_CURR']==int(id_client)]
 X.drop(columns=['SK_ID_CURR'],inplace=True)
             
 fig, ax = plt.subplots(figsize=(10, 10))
