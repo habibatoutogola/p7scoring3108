@@ -151,6 +151,6 @@ affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Wo
 affiche_voisin.head()
 for i in range(5):
     #voisin=print(nearest_neighbors.iloc[k.index[i]])
-    voisin=print(nearest_neighbors[nearest_neighbors.index == int(k.index[i])])
+    voisin=nearest_neighbors[nearest_neighbors.index == int(k.index[i])]
     
 st.write(voisin)
