@@ -133,24 +133,24 @@ st.pyplot(fig)
 
 st.subheader("Client similaires")
 
-nearest_neighbors = df_client[['AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER', 'AMT_CREDIT',
+nearest_neighbors = df_client[['SK_ID_CURR','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER', 'AMT_CREDIT',
                               'INCOME_CREDIT_PERC','DAYS_BIRTH']]
 
 knn = KMeans(random_state=42,n_clusters=5) #5 plus proche voisins
 knn.fit(nearest_neighbors)
 # Creation de nouvelle feature
 nearest_neighbors['class']=knn.labels_
-row_client=nearest_neighbors[nearest_neighbors.index == int(id_client)]
+row_client=nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]
 st.table(row_client)
 #5 client de la même classe par hazard
-cls = nearest_neighbors[nearest_neighbors.index == int(id_client)]['class']
+cls = nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]['class']
 k = nearest_neighbors['class'][nearest_neighbors['class'] == cls.values[0]].sample(5)
 affiche_voisin = nearest_neighbors[['DAYS_BIRTH', 'AMT_CREDIT','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER','INCOME_CREDIT_PERC']]
 affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 for i in range(5):
-    voisin=data_neighboard.iloc[k.index[i]]
+    voisin=data_neighboard.iloc[k.SK_ID_CURR[i]]
 st.dataframe(voisin)
 
 
