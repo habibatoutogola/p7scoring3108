@@ -150,5 +150,5 @@ affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 for i in range(5):
-    voisin=nearest_neighbors.iloc[k.SK_ID_CURR[i]]
+    voisin=nearest_neighbors.iloc[k.index[i]]
 st.dataframe(voisin)
