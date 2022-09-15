@@ -85,19 +85,19 @@ st.write("**Sex :**", row_appli_sk['CODE_GENDER'].values[0])
 st.write("**Age client :**", row_appli_sk["DAYS_BIRTH"].values[0] , "ans.")
 st.write("**Family status :**", row_appli_sk['NAME_FAMILY_STATUS'].values[0])
 st.write("**Education type :**", row_appli_sk['NAME_EDUCATION_TYPE'].values[0])
-st.write("**Occupation type :**", row_appli_sk['OCCUPATION_TYPE'].values[0], "$")
+st.write("**Occupation type :**", row_appli_sk['OCCUPATION_TYPE'].values[0])
 st.write("**Client owns a house or flat :**", row_appli_sk['FLAG_OWN_REALTY'].values[0])
 st.write("**Income of the client :**", row_appli_sk['AMT_INCOME_TOTAL'].values[0])
-st.write("**Loan annuity / Income of the client : **{:.2f}".format(row_df_sk['ANNUITY_INCOME_PERC'].values[0]*100), "%")
+st.write("**Loan annuity / Income of the client :**{:.2f}".format(row_df_sk['ANNUITY_INCOME_PERC'].values[0]*100), "%")
 #income_perc =row_df_sk['ANNUITY_INCOME_PERC'].values
 #st.write(f"Loan annuity / Income of the client : {income_perc*100:.2f} %")
 
 st.subheader("Credit Information")
-st.write("Contract type :", row_appli_sk['Contract type'].values[0])
-st.write("Credit amount of the loan :", row_appli_sk['AMT_CREDIT'].values[0])
+st.write("**Contract type :**", row_appli_sk['NAME_CONTRACT_TYPE'].values[0])
+st.write("**Credit amount of the loan :**", row_appli_sk['AMT_CREDIT'].values[0])
 annuity =row_appli_sk['AMT_ANNUITY'].values[0] / 12
 st.write(f"Loan monthly : {annuity:.1f}")
-st.write("**Income of the client / Credit amount of the loan : **{:.2f}".format(row_df_sk['INCOME_CREDIT_PERC'].values[0]*100), "%")
+st.write("**Income of the client / Credit amount of the loan :**{:.2f}".format(row_df_sk['INCOME_CREDIT_PERC'].values[0]*100), "%")
 #income_credit_perc =row_df_sk['INCOME_CREDIT_PERC'].values[0]
 #st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
 
