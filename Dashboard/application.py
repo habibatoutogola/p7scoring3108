@@ -141,18 +141,15 @@ knn.fit(nearest_neighbors)
 # Creation de nouvelle feature
 nearest_neighbors['class']=knn.labels_
 row_client=nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]
+row_client['CODE_GENDER'] = row_client['CODE_GENDER'].map({0:'Men',1:'Women'})
 st.table(row_client)
 #5 client de la même classe par hazard
-cls = nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]['class']
-k = nearest_neighbors['class'][nearest_neighbors['class'] == cls.values[0]].sample(5)
+#cls = nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]['class']
+#k = nearest_neighbors['class'][nearest_neighbors['class'] == cls.values[0]].sample(5)
 affiche_voisin = nearest_neighbors[['DAYS_BIRTH', 'AMT_CREDIT','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER','INCOME_CREDIT_PERC','class']]
 affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 voisin_similaire=affiche_voisin[affiche_voisin['class']==row_client['class'].values[0]]
-st.write(voisin_similaire)
- #for i in range(5):
-    #voisin=print(nearest_neighbors.iloc[k.index[i]])
-    #voisin=pd.dataframe(affiche_voisins[affiche_voisin.index == int(k.index[i])])
-# return voisin
-#st.write(voisin_similaire(row_client.class.values[0]))
+st.write(voisin_similaire.head(5))
+ 
