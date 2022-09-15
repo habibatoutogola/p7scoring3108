@@ -140,7 +140,7 @@ knn = KMeans(random_state=42,n_clusters=5) #5 plus proche voisins
 knn.fit(nearest_neighbors)
 # Creation de nouvelle feature
 nearest_neighbors['class']=knn.labels_
-row_client=nearest_neighbors[nearest_neighbors.index == int(id_client)])
+row_client=nearest_neighbors[nearest_neighbors.index == int(id_client)]
 st.table(row_client)
 #5 client de la même classe par hazard
 cls = nearest_neighbors[nearest_neighbors.index == int(id_client)]['class']
