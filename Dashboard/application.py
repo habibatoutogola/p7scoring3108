@@ -148,15 +148,14 @@ st.pyplot(fig)
 
 st.subheader("Clients similaires")
 
-nearest_neighbors = df_appli[['SK_ID_CURR','AMT_INCOME_TOTAL', 'AMT_ANNUITY', 'AMT_CREDIT',
+nearest_neighbors = df_appli[['SK_ID_CURR','AMT_INCOME_TOTAL', 'AMT_ANNUITY',"CODE_GENDER", 'AMT_CREDIT',
                               'INCOME_CREDIT_PERC','DAYS_BIRTH']]
+nearest_neighbors['CODE_GENDER']=nearest_neighbors['CODE_GENDER'].map({'Men':0,'Women':1})
 
 knn = KMeans(random_state=42,n_clusters=5) #5 plus proche voisins
 knn.fit(nearest_neighbors)
 # Creation de nouvelle feature
-nearest_neighbors['CODE_GENDER']=df_appli['CODE_GENDER']
 nearest_neighbors['class']=knn.labels_
-
 row_client=nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]
 row_client['CODE_GENDER'] = row_client['CODE_GENDER'].map({0:'Men',1:'Women'})
 row_client.rename({"SK_ID_CURR": "ID client ", "CODE_GENDER": "Sexe","DAYS_BIRTH": "Age", "AMT_CREDIT":"Montant total credit", "AMT_ANNUITY":"Montant credit remboursé", "AMT_INCOME_TOTAL": "Revenu Total"})
