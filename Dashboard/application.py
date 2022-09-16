@@ -149,7 +149,7 @@ st.pyplot(fig)
 
 st.subheader("Clients similaires")
 
-nearest_neighbors = df_client[['SK_ID_CURR','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER', 'AMT_CREDIT',
+nearest_neighbors = df_appli[['SK_ID_CURR','AMT_INCOME_TOTAL', 'AMT_ANNUITY','CODE_GENDER', 'AMT_CREDIT',
                               'INCOME_CREDIT_PERC','DAYS_BIRTH']]
 
 knn = KMeans(random_state=42,n_clusters=5) #5 plus proche voisins
