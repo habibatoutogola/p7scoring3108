@@ -158,6 +158,7 @@ knn.fit(nearest_neighbors)
 nearest_neighbors['class']=knn.labels_
 row_client=nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]
 row_client['CODE_GENDER'] = row_client['CODE_GENDER'].map({0:'Men',1:'Women'})
+st.write("""**Table client du client selectionné:**""")
 st.table(row_client)
 #5 client de la même classe par hazard
 #cls = nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]['class']
@@ -167,5 +168,6 @@ affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 voisin_similaire=affiche_voisin[affiche_voisin['class']==row_client['class'].values[0]]
+st.write("""**Table de 5 clients similaire:**""")
 st.write(voisin_similaire.head(5))
  
