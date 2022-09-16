@@ -19,7 +19,7 @@ df_appli['NAME_FAMILY_STATUS']=df_client['NAME_FAMILY_STATUS']
 df_appli['NAME_EDUCATION_TYPE']=df_client['NAME_EDUCATION_TYPE']
 df_appli['OCCUPATION_TYPE']=df_client['OCCUPATION_TYPE']
 df_appli['NAME_CONTRACT_TYPE']=df_client['NAME_CONTRACT_TYPE']
-df_appli['CODE_GENDER']=df_client['CODE_GENDER']
+df_appli['CODE_GENDER']=df_client['CODE_GENDER'].map({0:'Men',1:'Women'})
 df_appli['DAYS_BIRTH']=df_client['DAYS_BIRTH']
 df_appli['FLAG_OWN_REALTY']=df_client['FLAG_OWN_REALTY']
 df_appli['AMT_INCOME_TOTAL']=df_client['AMT_INCOME_TOTAL']
@@ -98,24 +98,23 @@ row_df_sk =  df[df.SK_ID_CURR == int(id_client)]
 row_appli_sk = df_appli[df_appli['SK_ID_CURR'] == int(id_client)]
 
 st.subheader("Client Information")
-st.write("**Sex :**", row_appli_sk['CODE_GENDER'].values[0])
-st.write("**Age client :**", row_appli_sk["DAYS_BIRTH"].values[0] , "ans")
-st.write("**Family status :**", row_appli_sk['NAME_FAMILY_STATUS'].values[0])
+st.write("**Genre :**", row_appli_sk['CODE_GENDER'].values[0])
+st.write("**Age :**", row_appli_sk["DAYS_BIRTH"].values[0] , "ans")
+st.write("**Status Familial :**", row_appli_sk['NAME_FAMILY_STATUS'].values[0])
 st.write("**Education type :**", row_appli_sk['NAME_EDUCATION_TYPE'].values[0])
 st.write("**Occupation type :**", row_appli_sk['OCCUPATION_TYPE'].values[0])
-st.write("**Client owns a house or flat :**", row_appli_sk['FLAG_OWN_REALTY'].values[0])
-st.write("**Income of the client :**", row_appli_sk['AMT_INCOME_TOTAL'].values[0])
-st.write("**ANNUITY_CREDIT_PERCENT_INCOME :** {:.2f}".format(row_appli_sk['ANNUITY_INCOME_PERC'].values[0]*100), "%")
+st.write("**Possession de votre propre logement :**", row_appli_sk['FLAG_OWN_REALTY'].values[0])
+st.write("**Revenu total :**", row_appli_sk['AMT_INCOME_TOTAL'].values[0])
+st.write("**Pourcentage remboursement crédit sur les revenus total :** {:.2f}".format(row_appli_sk['ANNUITY_INCOME_PERC'].values[0]*100), "%")
 
 
 st.subheader("Credit Information")
-st.write("**Contract type :**", row_appli_sk['NAME_CONTRACT_TYPE'].values[0])
-st.write("**Credit amount of the loan :**", row_appli_sk['AMT_CREDIT'].values[0])
+st.write("**Type de prêt :**", row_appli_sk['NAME_CONTRACT_TYPE'].values[0])
+st.write("**Montant total à payer pour les crédits :**", row_appli_sk['AMT_CREDIT'].values[0])
 annuity =row_appli_sk['AMT_ANNUITY'].values[0] / 12
-st.write("**Loan monthly :** {:.1f}".format(annuity))
-st.write("**INCOME_CREDIT_PERC :** {:.2f}".format(row_df_sk['INCOME_CREDIT_PERC'].values[0]*100), "%")
-#income_credit_perc =row_df_sk['INCOME_CREDIT_PERC'].values[0]
-#st.write(f"Income of the client / Credit amount of the loan : {income_credit_perc*100:.2f} %")
+st.write("**Montant du crédit remboursé par an :** {:.1f}".format(annuity))
+st.write("**Pourcentage du crédit à payer sur les revenus :** {:.2f}".format(row_df_sk['INCOME_CREDIT_PERC'].values[0]*100), "%")
+
 
 #affichage de la prédiction
 st.subheader("Retour Prediction")
@@ -158,7 +157,8 @@ knn.fit(nearest_neighbors)
 nearest_neighbors['class']=knn.labels_
 row_client=nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]
 row_client['CODE_GENDER'] = row_client['CODE_GENDER'].map({0:'Men',1:'Women'})
-st.write("""**Table client du client selectionné:**""")
+row_client.rename({"SK_ID_CURR": "ID client ", "CODE_GENDER": "Sexe","DAYS_BIRTH": "Age", "AMT_CREDIT":"Montant total credit", "AMT_ANNUITY":"Montant credit remboursé", "AMT_INCOME_TOTAL": "Revenu Total"})
+st.write("""**Table du client selectionné:**""")
 st.table(row_client)
 #5 client de la même classe par hazard
 #cls = nearest_neighbors[nearest_neighbors.SK_ID_CURR == int(id_client)]['class']
@@ -168,6 +168,7 @@ affiche_voisin['DAYS_BIRTH']=np.round(affiche_voisin['DAYS_BIRTH'],0)
 affiche_voisin['CODE_GENDER'] = affiche_voisin['CODE_GENDER'].map({0:'Men',1:'Women'})
 affiche_voisin.head()
 voisin_similaire=affiche_voisin[affiche_voisin['class']==row_client['class'].values[0]]
-st.write("""**Table de 5 clients similaire:**""")
+voisin_similaire.rename({"SK_ID_CURR": "ID client ", "CODE_GENDER": "Sexe","DAYS_BIRTH": "Age", "AMT_CREDIT":"Montant total credit", "AMT_ANNUITY":"Montant credit remboursé", "AMT_INCOME_TOTAL": "Revenu Total"})
+st.write("""**Table de 5 clients similaires:**""")
 st.write(voisin_similaire.head(5))
  
