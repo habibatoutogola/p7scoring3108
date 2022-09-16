@@ -13,8 +13,20 @@ from sklearn.cluster import KMeans
 # Chargement des données
 df = pd.read_csv('data_scoring_ech.csv', index_col=0)
 df_client= pd.read_csv('df_client.csv',index_col=0)
-df_TARGET = df.TARGET.copy()
-#df.drop(columns='TARGET', inplace=True)
+df_appli=df.copy()
+
+df_appli['NAME_FAMILY_STATUS']=df_client['NAME_FAMILY_STATUS']
+df_appli['NAME_EDUCATION_TYPE']=df_client['NAME_EDUCATION_TYPE']
+df_appli['OCCUPATION_TYPE']=df_client['OCCUPATION_TYPE']
+df_appli['NAME_CONTRACT_TYPE']=df_client['NAME_CONTRACT_TYPE']
+df_appli['CODE_GENDER']=df_client['CODE_GENDER']
+df_appli['DAYS_BIRTH']=df_client['DAYS_BIRTH']
+df_appli['FLAG_OWN_REALTY']=df_client['FLAG_OWN_REALTY']
+df_appli['AMT_INCOME_TOTAL']=df_client['AMT_INCOME_TOTAL']
+df_appli['ANNUITY_INCOME_PERC']=df_client['ANNUITY_INCOME_PERC']
+df_appli['AMT_CREDIT']=df_client['AMT_CREDIT']
+df_appli['AMT_ANNUITY']=df_client['AMT_ANNUITY']
+df_appli['INCOME_CREDIT_PERC']=df_client['INCOME_CREDIT_PERC']
 
 #chargement du modéle
 grid_lgbm = pickle.load( open( 'lgbm_GridCV.p', 'rb' ) )
@@ -83,17 +95,17 @@ id_client = option_sk
 
 # Information relative à un client 
 row_df_sk =  df[df.SK_ID_CURR == int(id_client)] 
-row_appli_sk = df_client[df_client['SK_ID_CURR'] == int(id_client)]
+row_appli_sk = df_appli[df_appli['SK_ID_CURR'] == int(id_client)]
 
 st.subheader("Client Information")
-st.write("**Sex :**", row_df_sk['CODE_GENDER'].values[0])
-st.write("**Age client :**", row_df_sk["DAYS_BIRTH"].values[0] , "ans")
-st.write("**Family status :**", row_df_sk['NAME_FAMILY_STATUS'].values[0])
-st.write("**Education type :**", row_df_sk['NAME_EDUCATION_TYPE'].values[0])
-st.write("**Occupation type :**", row_df_sk['OCCUPATION_TYPE'].values[0])
-st.write("**Client owns a house or flat :**", row_df_sk['FLAG_OWN_REALTY'].values[0])
-st.write("**Income of the client :**", row_df_sk['AMT_INCOME_TOTAL'].values[0])
-st.write("**ANNUITY_CREDIT_PERCENT_INCOME :** {:.2f}".format(row_df_sk['ANNUITY_INCOME_PERC'].values[0]*100), "%")
+st.write("**Sex :**", row_appli_sk['CODE_GENDER'].values[0])
+st.write("**Age client :**", row_appli_sk["DAYS_BIRTH"].values[0] , "ans")
+st.write("**Family status :**", row_appli_sk['NAME_FAMILY_STATUS'].values[0])
+st.write("**Education type :**", row_appli_sk['NAME_EDUCATION_TYPE'].values[0])
+st.write("**Occupation type :**", row_appli_sk['OCCUPATION_TYPE'].values[0])
+st.write("**Client owns a house or flat :**", row_appli_sk['FLAG_OWN_REALTY'].values[0])
+st.write("**Income of the client :**", row_appli_sk['AMT_INCOME_TOTAL'].values[0])
+st.write("**ANNUITY_CREDIT_PERCENT_INCOME :** {:.2f}".format(row_appli_sk['ANNUITY_INCOME_PERC'].values[0]*100), "%")
 
 
 st.subheader("Credit Information")
